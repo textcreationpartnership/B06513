@@ -1,0 +1,2323 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliotheca Vemiana: or, A catalogue of the books of the late reverend and learned Dr. James Weems Principal of St. Leonard's Colledge in St. Andrews. Which are to be sold by way of auction on Munday the 14 of February next, in Jackson's Close on the north side of the High-Street, over against the east-end of the Court of Guard, the 2 turnpike, where placads shall be affixt. The time of sale is ftom two to six in the afternoon, and the books are to be seen the week before the auction begin, betwixt the hours of 10 and 12 in the forenoon, and 2 and 4 in the afternoon. The catalogues are to be had at the auction-house, Mr. Charles Lumisdens shop in the Lucken-Booths, and the houses of Mr. David Freebairn in the Cowgate opposite to Forresters-Wynd, and of Mr. David Spence in the head of Skinners Closs.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 89 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06513</idno>
+            <idno type="STC">Wing W1346A</idno>
+            <idno type="STC">ESTC R186367</idno>
+            <idno type="EEBO-CITATION">52529088</idno>
+            <idno type="OCLC">ocm 52529088</idno>
+            <idno type="VID">179235</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06513)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179235)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2781:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bibliotheca Vemiana: or, A catalogue of the books of the late reverend and learned Dr. James Weems Principal of St. Leonard's Colledge in St. Andrews. Which are to be sold by way of auction on Munday the 14 of February next, in Jackson's Close on the north side of the High-Street, over against the east-end of the Court of Guard, the 2 turnpike, where placads shall be affixt. The time of sale is ftom two to six in the afternoon, and the books are to be seen the week before the auction begin, betwixt the hours of 10 and 12 in the forenoon, and 2 and 4 in the afternoon. The catalogues are to be had at the auction-house, Mr. Charles Lumisdens shop in the Lucken-Booths, and the houses of Mr. David Freebairn in the Cowgate opposite to Forresters-Wynd, and of Mr. David Spence in the head of Skinners Closs.</title>
+               </titleStmt>
+               <extent>32+ p.   </extent>
+               <publicationStmt>
+                  <publisher>G. Mosman,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Notations in ms. throughout.</note>
+                  <note>Imperfect: lacks all after page 32.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wemyss, James, --  Principal of St. Leonard's College, St. Andrews --  Library --  Catalogs --  Early works to 1800.</term>
+               <term>Catalogs, Booksellers' --  Scotland --  Edinburgh --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179235:1" rendition="simple:additions"/>
+            <p>
+               <hi>Bibliotheca Vemiana:</hi> OR, A CATALOGUE OF THE BOOKS Of the Late Reverend and Learned Dr. <hi>James Weems</hi> Principal of St. <hi>Leonard</hi>'s Colledge in St. <hi>Andrews.</hi>
+            </p>
+            <p>Which are to be Sold by way of Auction on <hi>Munday</hi> the 14 of <hi>February</hi> next, in <hi>Jackſon's</hi> Cloſe on the North ſide of the High-Street, over againſt the Eaſt-end of the Court of Guard, the 2 Turnpike, where Placads ſhall be Affixt.</p>
+            <p>The time of Sale is from two to ſix in the Afternoon, and the Books are to be ſeen the Week before the Auction begin, betwixt the Hours of 10 and 12 in the Forenoon, and 2 and 4 in the Afternoon.</p>
+            <p>The Catalogues are to be had at the Auction-Houſe, Mr. <hi>Charles Lumiſdens</hi> Shop in the <hi>Luck<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n-Booths,</hi> and the Houſes of Mr. <hi>David Freebairn</hi> in the <hi>Cowgate</hi> oppoſite to <hi>Forreſters-Wynd,</hi> and of Mr. <hi>David Spence</hi> in the head of <hi>Skinners Cloſs.</hi>
+            </p>
+         </div>
+         <div type="list_of_conditions">
+            <pb facs="tcp:179235:2" rendition="simple:additions"/>
+            <head>The Conditions of Sale,</head>
+            <list>
+               <item>1. <hi>He who bids moſt is the Buyer.</hi>
+               </item>
+               <item>2. <hi>He who payes not preſently, is to give Earnest to do it before the next days</hi> Auction; <hi>otherwiſe the Book is to be expoſed of a new, and the Earneſt to be loſt.</hi>
+               </item>
+               <item>3. <hi>If any difference happen to ariſe which the Company can<g ref="char:EOLhyphen"/>not decide, the Book ſhall inſtantly be put to Sale again,</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="list_of_books">
+            <pb n="3" facs="tcp:179235:2"/>
+            <list>
+               <head>Books in Folio.</head>
+               <item>1 ABbatis Urſpergenſis Chronicon <hi>Argent.</hi> 1609</item>
+               <item>2 Blounts Hiſtory of <hi>Portugal London</hi> 1600</item>
+               <item>3 Turriani ſumma Theologiae moralis in 2 vol. <hi>Lugduni</hi> 1634</item>
+               <item>4 De Coninck de Sacramentis &amp; cenſuris <hi>Lugd.</hi> 1621</item>
+               <item>5 De Coninck de Actibus ſupernaturalibus <hi>Lut. Par.</hi> 1624</item>
+               <item>6 Miſcellanies of Divinitie</item>
+               <item>7 Engliſh annotations on the Bible vol. 1. <hi>London</hi> 1651</item>
+               <item>8 Taciti opera cum notis Lipſii <hi>Antwerpiae</hi> 1589</item>
+               <item>9 Solini Polyhiſtoria, Florus, Cebetis tabulae, &amp; Pomponius Mela, cum notis variorum.</item>
+               <item>10 Ariſtotelis Politica Graec. &amp; Lat. <hi>Baſileae</hi> 1583</item>
+               <item>11 Stella in Lucam <hi>Antwerp.</hi> 1622</item>
+               <item>12 Paulus Aemilius de geſtis Francorum <hi>Pariſiis</hi> 1539</item>
+               <item>13 Plutarchs Lives in Engliſh <hi>London</hi> 1612</item>
+               <item>14 Sniceri Theſaurus Eccleſiaſticus in duobus vol. <hi>Amſtelo.</hi> 1682</item>
+               <item>15 Munſteri Coſmographia <hi>Baſileae</hi> 1550</item>
+               <item>16 Tena in epiſtolam ad Hebraeos <hi>Londini</hi> 1661</item>
+               <item>17 Thucydides de bello Peloponeſiaco Gr. &amp; Lat. <hi>Franc.</hi> 1594</item>
+               <item>18 Wolfii lectiones memorabiles in 2. vol.</item>
+               <item>19 Hilderſam on the 51 Pſalm <hi>London</hi> 1635</item>
+               <item>20 Brouns enquirie into vulgar errors <hi>London</hi> 1650</item>
+               <item>21 Budaei commentari<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> linguae Grecae <hi>Baſil</hi> 1540</item>
+               <item>22 Burtons Melancholy <hi>Oxford</hi> 1632</item>
+               <item>23 Didaci Ruiz Commentarii &amp; diſput. <hi>Lutetiae</hi> 1629</item>
+               <item>24 Senecae opera cum notis Morellii <hi>Pariſi.</hi> 1613</item>
+               <item>25 Pererius in Geneſin <hi>Colon Agrip.</hi> 1622</item>
+               <item>26 Gregorii Noni decretales epiſtolae <hi>Pariſ.</hi> 1535</item>
+               <item>27 Gratiáni corpus decretorum in 2 vol. <hi>Pariſ.</hi> 1528</item>
+               <item>28 Harris his Sermons <hi>Lond.</hi> 1635</item>
+               <item>29 Knox Hiſtory of the Reform. of Scotland <hi>Lond.</hi> 1643</item>
+               <pb n="4" facs="tcp:179235:3" rendition="simple:additions"/>
+               <item>30 Bibliá Sacra cum gloſſa ordinaria in 6 vol. <hi>Antwer.</hi> 1634</item>
+               <item>31 Polybius Hiſtory in Engliſh <hi>Lond.</hi> 1634</item>
+               <item>32 Roſini antiquitates Romanae <hi>Baſil.</hi> 1583</item>
+               <item>33 Hyperius in epiſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ad Hebraeos <hi>Tiguri</hi> 1584</item>
+               <item>34 Plutarchi opera <hi>Francofurt</hi> 1580</item>
+               <item>35 Deciſiones rotae <hi>Lugduni</hi> 1555</item>
+               <item>36 Calvinus in Ezech. 20 capita priora 1583</item>
+               <item>37 Martyris loci communes <hi>Lond.</hi> 1583</item>
+               <item>38 Gorranus in epiſtolas Pauli <hi>Pariſ.</hi> 1533</item>
+               <item>39 Willets ſynopſis papiſmi <hi>Lond.</hi> 1634</item>
+               <item>40 Martyris comment. in geneſin <hi>Tiguri</hi> 1579</item>
+               <item>41 Swarez. defenſio fidei catholicae <hi>Colon Arrip.</hi> 1614</item>
+               <item>42 Ferrarii Lexicon Geographicum <hi>Iſenaci.</hi> 1677</item>
+               <item>43 Fuller's Piſgah ſight of Paleſtine <hi>Lond.</hi> 1650</item>
+               <item>44 Heylyn's hiſtory of the Reform. of the Church of England. 1661</item>
+               <item>45 Lawſon's body of Divinity <hi>Lond.</hi> 1659</item>
+               <item>46 Eraſmi Epiſtolae <hi>Friburgi</hi> 1532</item>
+               <item>47 Pighii controverſiae <hi>Coloniae</hi> 1545</item>
+               <item>48 Barret's Theorie &amp; practiſe of War <hi>Lond.</hi> 1598</item>
+               <item>49 Martyris Comment. in Epiſt. ad Rom. <hi>Heydelberg</hi> 1612</item>
+               <item>50 Mornaii myſterium iniquitatis <hi>Salmurii</hi> 1611</item>
+               <item>51 Cornelii theſaurus juris civilis 1585</item>
+               <item>52 Calvinus in 5 lib. Moſis <hi>Genevae</hi> 1563</item>
+               <item>53 Cumel's variae Diſput. <hi>Lugduni</hi> 1609</item>
+               <item>54 Curcellaei opera Theolog. <hi>Amſtelod.</hi> 1675</item>
+               <item>55 Molerus in pſalmos <hi>Genev.</hi> 1634</item>
+               <item>56 Gaulteri Chronologia <hi>Coloniae</hi> 1616</item>
+               <item>57 Chemnitii examen Concil. Trident <hi>Gen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vae</hi> 1641</item>
+               <item>58 Calvinus in Danielem <hi>Rupellae</hi> 1611</item>
+               <item>56 Prideaux Praelectiones <hi>Oxoniae</hi> 1648</item>
+               <item>60 Petrus de Natalibus 1621</item>
+               <item>61 Eadmeri Hiſtoria ſui ſaeculi <hi>Londini</hi> 1623</item>
+               <item>62 OEcolampadii &amp; zuinglii Epiſtolae 1548</item>
+               <item>63 Aquinas in Epiſt. Pauli <hi>Pariſ.</hi> 1529</item>
+               <item>64 Summa Colloquii Raynoldi cum Harto <hi>Oxoniae</hi> 1610</item>
+               <item>65 Morton of the inſtitution of the Lords Supper <hi>Lond.</hi> 1631</item>
+               <item>66 Book of Common prayer for the Church of Scotland <hi>Ed.</hi> 1637</item>
+               <item>67 Reev's Gods plea for Nineveh <hi>Lond.</hi> 1657</item>
+               <pb n="5" facs="tcp:179235:3"/>
+               <item>68 Valleſii controv. med. et philoſoph. <hi>Franc.</hi> 1582</item>
+               <item>69 Lavaterus in lib. Parlipomenon <hi>Heydelberg.</hi> 1600</item>
+               <item>70 Gregorii Tholoſani ſyntagma juris univerſi. <hi>Franc.</hi> 1599</item>
+               <item>71 Schindleri lexicon pentaglotton <hi>Franc.</hi> ad <hi>Maen</hi> 7. 1612</item>
+               <item>72 Bodius in Epiſt. ad Epheſios. <hi>Lond.</hi> 1652</item>
+               <item>73 Towerſon on the decalogue <hi>Lond.</hi> 1676</item>
+               <item>74 Andrew's on the Commandments <hi>Lond.</hi> 1643</item>
+               <item>75 Burgeſs ſpiritual Refinings <hi>Lond.</hi> 1652</item>
+               <item>76 Epiſcopii opera <hi>Goudae</hi> 1665</item>
+               <item>77 Bacon of the advancement of learning <hi>Oxford</hi> 1640</item>
+               <item>78 White's reply to Fiſher <hi>Lond.</hi> 1624</item>
+               <item>79 Holdsworth's praelectiones theologicae <hi>Lond.</hi> 1661</item>
+               <item>80 Angeli &amp; Alicati monomachia</item>
+               <item>81 Bilſon's ſurvey of Chriſts Sufferings <hi>Lond.</hi> 1604</item>
+               <item>82 Demoſthenis &amp; Aeſchinis opera gr, &amp; lat. <hi>Aureliae</hi> 1607</item>
+               <item>83 Alleſtry's 18 Sermons <hi>Lond.</hi> 1669</item>
+               <item>84 Johnſton's Hiſtory of the wonders of Nature <hi>Lond.</hi> 1657</item>
+               <item>85 Oſiander in pentateuchum <hi>Tubingae</hi> 1676</item>
+               <item>86 Vegetius de re militari <hi>Pariſ.</hi> 1553</item>
+               <item>87 Towerſon on the Creed <hi>Lond.</hi> 1678</item>
+               <item>88 Vigeſii decachordum Chriſtianum</item>
+               <item>89 Rathborne's Surveyor <hi>Lond.</hi> 1616</item>
+               <item>90 Carylon Job in 2 vol. <hi>Lond.</hi> 1676</item>
+               <item>91 Montagues acts &amp; monuments of the Church <hi>Lond.</hi> 1692</item>
+               <item>92 Idem de originibus eccleſiaſticis <hi>Lond.</hi> 1636</item>
+               <item>93 Cartwright's confutation of the Rhem. new Teſt. 1618</item>
+               <item>94 Grantham's ancient Chriſtian Religion <hi>Lond.</hi> 1678</item>
+               <item>95 Acts of Parliament of the 6 King <hi>James</hi>'s</item>
+               <item>96 Cotgrave's French and Engliſh Dictionary <hi>Lond.</hi> 1632</item>
+               <item>97 Gauden's Eccleſ. Angilicanae ſuſpiria <hi>Lond.</hi> 1659</item>
+               <item>98 Tuiſſius de praedeſt. Gratia &amp; lib. arbitrio <hi>Amſtelodami</hi> 1649</item>
+               <item>99 Cauſſins holy Court <hi>Lond.</hi> 1663</item>
+               <item>100 Andrews poſthumous Lectures <hi>Lond.</hi> 1657</item>
+               <item>101 Laurentii hiſtoria anatomica</item>
+               <item>102 Hutcheſon on John <hi>Lond.</hi> 1657</item>
+               <item>103 Daille upon the Coloſ. <hi>Lond.</hi> 1672</item>
+               <item>104 Pighii hierarchiae eccleſiaſticae aſſertio <hi>Colon. Agrip.</hi> 1572</item>
+               <item>105 Montaigne's Eſſays <hi>Lond.</hi> 1613</item>
+               <pb n="6" facs="tcp:179235:4"/>
+               <item>106 Daniel's Hiſtory of England <hi>Loud.</hi> 1634</item>
+               <item>107 Lorinus in epiſtolas catholicas <hi>Moguntii</hi> 1622</item>
+               <item>108 Willan's exact politician <hi>Lond.</hi> 1670</item>
+               <item>109 Malvezzi's diſcourſes upon Tacitus <hi>Lond.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>110 Maronius in Ariſt. &amp; Plato. philoſoph. <hi>Venetiis</hi> 1557</item>
+               <item>111 Johnſon's light of Navigation <hi>Amsterdam</hi> 1624</item>
+               <item>112 Moſſom's preachers tripartite <hi>Lond.</hi> 1657</item>
+               <item>113 Pharmacopoeia Auguſtana <hi>Auguſtae</hi> 1652</item>
+               <item>114 Theodoreti graecar 7. affection 7. curatio gr. &amp; lat. 1592</item>
+               <item>115 Willet's hexapla in geneſin <hi>Cambridg</hi> 1605</item>
+               <item>116 Brathwait's Engliſh Gentleman and Gentlewoman <hi>Lond.</hi> 1641</item>
+               <item>117 Cameronis praelectiones <hi>Genevae</hi> 1642</item>
+               <item>118 Davenantius in Epiſt. ad Coloſſenſes <hi>Cantabridgiae</hi> 1730</item>
+               <item>119 Field of the Church <hi>Oxford</hi> 1545</item>
+               <item>120 Willet's hexapla in Exodum <hi>Lond.</hi> 1608</item>
+               <item>121 Davenantii differtations <hi>Cantabrigiae.</hi> 1650</item>
+               <item>122 Muſculus in Iſaiam <hi>Baſil.</hi> 1570</item>
+               <item>123 Chillingworth's Religion of Proteſtants <hi>Oxford</hi> 1638</item>
+               <item>124 Acts 2d. Parliam. K. Cha. 2d. <hi>Edinb.</hi> 1641</item>
+               <item>125 Euſebiu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Socrates, Theodoretus, &amp; alii Eccleſiaſt. Hiſt. Graece ex editione Stephani.</item>
+               <item>126 Orationes ex Graecis Latiniſq. Hiſtoricis ex editione ejuſdem Stephani.</item>
+               <item>127 Sophoclis Tragoediae graece cum notis Stephani</item>
+               <item>128 Lactantii opera <hi>Coloniae</hi> 1544</item>
+               <item>129 Biblia ſacra ex verſione Caſtalionis <hi>Baſil.</hi> 1651</item>
+               <item>130 Leigh's Critica Sacra <hi>Lond.</hi> 1650</item>
+               <item>131 De Olea's tractat. de Ceſſione jurium <hi>Genevae</hi> 1665</item>
+               <item>132 Lightfoots Harmony of the New Teſtament <hi>Lond.</hi> 1655</item>
+               <item>133 Collegium Conimbricenſe in Ariſt. de caelo <hi>Lugduni</hi> 1616</item>
+               <item>134 Guicciardin's Hiſtory in Engliſh <hi>Lond.</hi> 1618</item>
+               <item>135 Lavaterus in Ezech. <hi>Genevae</hi> 1581</item>
+               <item>136 Heylyn on the Cteed <hi>Lond.</hi> 1673</item>
+               <item>137 Plutarch's Works in French <hi>A Baſle</hi> 1574</item>
+               <item>138 Decii Conſilia <hi>Lugduni</hi> 1550</item>
+               <item>139 Virgilius cum notis variorum <hi>Antwerpiae</hi> 1575</item>
+               <item>140 Fenner's Works <hi>Lond.</hi> 1657</item>
+               <pb n="7" facs="tcp:179235:4"/>
+               <item>141 Concordantiae Greco-latinae teſtamenti novi <hi>Genevae</hi> 1624</item>
+               <item>142 Cragius de Feudis <hi>Lond.</hi> 1655</item>
+               <item>143 Titi Livii Hiſtoria cum notis <hi>Lut. Pariſ.</hi> 1573</item>
+               <item>144 Aquinatis ſumma Theologica <hi>Pariſiis</hi> 1632</item>
+               <item>145 Comptoni Philoſophia univerſa <hi>Antwerpiae</hi> 1649</item>
+               <item>146 Hacket's Sermons <hi>Lond.</hi> 1675</item>
+               <item>147 Taylor's Sermons <hi>Lond.</hi> 1655</item>
+               <item>148 Pighius de libero hominis arbitrio <hi>Coloniae</hi> 1542</item>
+               <item>149 Divi Clementis opera <hi>Pariſ.</hi> 1544</item>
+               <item>150 Hondorfii Theatrum Hiſtoricum <hi>Franc ad Maenum</hi> 1575</item>
+               <item>151 Tortellius de orthograph. dictionum e graecis tractarum.</item>
+               <item>152 Mornay of the Maſs <hi>Lond.</hi> 1600</item>
+               <item>153 Bacon's Hiſtory of Henry the 7. <hi>Lond.</hi> 1641</item>
+               <item>154 Hale's primitive Origination of Mankind <hi>Lond.</hi> 1677</item>
+               <item>155 Willet's Hexapla in Danielem <hi>Cambridge</hi> 1610</item>
+               <item>156 Zonarae et Nicetae Hiſtoriae Gr. &amp; Lat. <hi>Baſil.</hi> 1557</item>
+               <item>157 Mercerus in Geneſin <hi>Genevae</hi> 1548</item>
+               <item>158 Parr on the Romans <hi>Lond.</hi> 1651</item>
+               <item>159 Marloratus in Iſaiam <hi>Genevae</hi> 1610</item>
+               <item>160 More's Myſtery of iniquity <hi>Lond.</hi> 1664</item>
+               <item>161 More's Myſtery of godlineſs <hi>Lond.</hi> 1660</item>
+               <item>162 Whatley's Prototypes <hi>Lond.</hi> 1640</item>
+               <item>163 Ruperti Tuitienſis opera <hi>Coloniae</hi> 1528</item>
+               <item>164 Cocceius in Pſalmos <hi>Lugduni Batav.</hi> 1660</item>
+               <item>165 Oſiandri harmonia Evaegelica <hi>Baſil.</hi> 1537</item>
+               <item>166 Nonius Marcellus, Feſtus Pompeins, &amp; Terentius varro</item>
+               <item>167 Martyr in primam Epiſt. ad Corinth. <hi>Tiguri</hi> 1579</item>
+               <item>168 Marloratus in Nov. Teſtam. 1620</item>
+               <item>169 Ariſtot. Ethica gr. &amp; lat. <hi>Baſil.</hi> 1582</item>
+               <item>170 Aquinatis catena aurea <hi>Antwerpiae</hi> 1612</item>
+               <item>171 Acts of the General Aſſembly</item>
+               <item>172 De Roſier's ſtemmata Lotharingiae Ducum <hi>Pariſ.</hi> 1580</item>
+               <item>173 Davenantii Determinationes <hi>Cantabridgiae</hi> 1639</item>
+               <item>174 Claud's cath. doct. of the Euchariſt <hi>Lond.</hi> 1684</item>
+               <item>175 Burnet's Hiſtory of the Reformation of the Church of England in 2 vol. <hi>Lugd.</hi> 1679</item>
+               <item>176 Pellicani Index <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ibliorum <hi>Tiguri</hi> 1537</item>
+               <pb n="8" facs="tcp:179235:5" rendition="simple:additions"/>
+               <item>177 Theophylacti opera gr. &amp; lat. <hi>Lut. Pariſ.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>178 Saravia de Diverſis gradibus miniſtorum <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>179 Jewell's reply to Harding <hi>Lond.</hi> 1569</item>
+               <item>180 L'Eſtrange's allyance of divine Offices <hi>Lond.</hi> 1690</item>
+               <item>181 Hammond on the Pſalms <hi>Lond.</hi> 1659</item>
+               <item>182 Seldenus de jure naturali. &amp; gentium <hi>Lond.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>183 Martini pugio fidei <hi>Pariſi.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>184 Biblia Sacra Lovanienſia</item>
+               <item>185 Platonis opera graece <hi>Baſil.</hi> 153<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>186 Lavaterus in Jobum <hi>Tiguri</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>187 Raſtall's collection of Engliſh Statutes <hi>Lond.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>188 Biblia Sacra graeca 70 Interp. <hi>Francofurti</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>189 Plutarchs lives in French <hi>A Paris</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>190 Bullingerus in Danielem <hi>Tiguri</hi> 157<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>191 Bezae teſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Novum cum annot 1589</item>
+               <item>192 Bibliá Sacra Tigurina 154<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>193 Collegii Salmanticenſis curſus Theologicus <hi>Pariſ.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>194 Soncinatis quaeſt. Metaphyſicales <hi>Lugduni</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>195 Errard's Fortification in French <hi>A Pariſ.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>196 Quintiliani Inſtit. oratoriae <hi>Pariſ.</hi> 1549</item>
+               <item>197 Eſtius in omnes Epiſtolas <hi>Colon Agrip.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>198 Eraſmi &amp; aliorum adagia <hi>Francofurti</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>199 Lombardus in Pſalmos <hi>Pariſ.</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>200 Martyr in duos libros Samuelis <hi>Tiguri</hi> 156<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>201 Gerhardi harmonia Evangelica <hi>Gen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vae</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>202 Hayne's general view of the Scriptures <hi>Lond.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>203 Maſon of the Conſecration of Biſhops <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>204 Baxter's catholick Theologie <hi>Lond.</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>205 Borhaius in pentateuchum <hi>Baſileae</hi> 155<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>206 Burgeſs on the 17 of John <hi>Lond.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>207 Petter on Mark in 2 vol. <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>208 Turner's Herbal <hi>Lond</hi> 156<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>209 Calepini dictionarium 11 linguarum <hi>Baſil.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>210 Couper's Works <hi>London</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>211 Lava<g ref="char:cmbAbbrStroke">̄</g>terus in Proverbiá Salomonis <hi>Tiguri</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>212 Mercerus in prophetas quinque minores</item>
+               <item>213 Brounrig's Sermons <hi>London</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>214 King James the 6 Works <hi>Lon<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <pb n="9" facs="tcp:179235:5"/>
+               <item>215 Andrew's Sermons <hi>Lond.</hi> 1635</item>
+               <item>216 Maignanis philoſophia ſacra <hi>Toloſae</hi> 1661</item>
+               <item>217 Cudworth's intellectual ſyſtem of the World <hi>Lond.</hi> 1678</item>
+               <item>218 De Paſino's L'architecture de Guerre <hi>A Anvers</hi> 1579</item>
+               <item>219 Benedicti undecimi orationes in Mattheum <hi>Pariſ.</hi> 1603</item>
+               <item>220 Gorranus in evangelia <hi>Coloniae</hi> 1537</item>
+               <item>221 Jaſon de actionibus 153<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>222 Mercerus in Jobum, &amp;c. <hi>Lugd. Batav.</hi> 1651</item>
+               <item>223 Regiam Majeſtatem <hi>Edinburgi</hi> 1609</item>
+               <item>224 Mynſingerus in Inſtitutiones Juris Civilis <hi>Baſil.</hi> 1559</item>
+               <item>225 Knoll's Hiſtory of the Turks <hi>Lond.</hi> 1638</item>
+               <item>226 Perkin's Works in three Volums <hi>Lond.</hi> 1631</item>
+               <item>227 Chaſſinaei conſuetudines ducatus Burgundiae <hi>Lugd.</hi> 158<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>228 The Hiſtory of the Council of Trent. <hi>Lond.</hi> 1620</item>
+               <item>229 Junii opera in 2 Vol. <hi>Genevae</hi> 1613</item>
+               <item>230 Salmaſii Plinianae exercitationes in Solini Polyhiſtoriam in 2 Vol. <hi>Pariſ.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>231 Cajetani opera omnia in S. Scripturam in 5 Vol. <hi>Lugduni</hi> 1639</item>
+               <item>232 Gregorii de Valentia Comment. Theol. in 3 Vol. <hi>Lugduni</hi> 1619</item>
+               <item>233 Bonae Spei Comment. in Theol. Scholaſt. in 3 Vol. 1662</item>
+               <item>234 Ciceronis opera cum Notis Lambini in 2 Vol. <hi>Lugd.</hi> 1577</item>
+               <item>235 Scapulae Lexicon Graeco-Latinum. <hi>Lond.</hi> 1623</item>
+               <item>236 Saint Amour's Journal <hi>Lond.</hi> 1664</item>
+               <item>237 Acta Synodi Dordracenae <hi>Dordrecti</hi> 1620</item>
+               <item>238 Juelli opera Theologica 1600</item>
+               <item>239 Veſalii Anatome <hi>Lut. Par.</hi> 1564</item>
+               <item>240 Laureti Sylva Allegoriana <hi>Colon. Agrip.</hi> 1612</item>
+               <item>241 Acoſtae Comment. in S. Scripturam <hi>Lugd.</hi> 1641</item>
+               <item>242 Bramhal's Works <hi>Dublini</hi> 1677</item>
+               <item>243 Ambroſii opera in 2 Vol. <hi>Pariſ.</hi> 1603</item>
+               <item>244 Hiſt. Concilii Florentini <hi>Hagae Comitis</hi> 1660</item>
+               <item>245 Viccar's Decupla in Pſalmos <hi>Lond.</hi> 1659</item>
+               <item>246 Spencerus de Legibus Haebraeorum Ritualibus <hi>Cantabrigiae</hi> 1675</item>
+               <item>247 Mercatoris Atlas <hi>Roterodami</hi> 1606</item>
+               <item>248 Martyr in Libros Regum <hi>Tiguri</hi> 1581</item>
+               <item>249 Montaigne's Eſſays <hi>Lond.</hi> 1632</item>
+               <item>250 Ordonnances Royaux de France <hi>A Lyon</hi> 1559</item>
+               <item>251 Bellarmini Controverſ. <hi>Colon. Agrip.</hi> 1628</item>
+               <item>252 Biblia Sacra Vulgatae Editionis <hi>Pariſ.</hi> 1573</item>
+               <item>253 Novum Teſtam. Graecum cum Interpret Syriaca Apud <hi>Hen. Stephanum</hi>
+               </item>
+               <item>254 Stapletoni opera in 4 Vol. <hi>Lut. Pariſ.</hi> 1620</item>
+               <item>255 Schoneri opera mathematica <hi>Norimbergae</hi> 1551</item>
+               <item>256 Harangues Militaires <hi>A Paris</hi> 1573</item>
+               <item>257 Herodoti Hiſtoria Graece</item>
+               <item>258 Antonii de Dominis Reſp. Eccleſiaſt. in 3 Vol. <hi>Lond.</hi> 1617</item>
+               <item>259 Plinii Hiſt. Naturalis <hi>Franc. ad Moenum</hi> 1599</item>
+               <item>260 Auguſtini opera in 6 Vol. <hi>Pariſ.</hi> 1614</item>
+               <item>261 Calvinus in Geneſin &amp; Exodum <hi>Genevae</hi> 1617</item>
+               <item>262 Calvini harmonia <hi>Genevae</hi> 1613</item>
+               <pb n="10" facs="tcp:179235:6" rendition="simple:additions"/>
+               <item>263 Calvinus in omnes Epiſtolas <hi>Genevae</hi> 1617</item>
+               <item>264 Calvini tractatus theologici <hi>Genevae</hi> 1511</item>
+               <item>265 Toſtati Comment. in S. Scrip. in 13 Vol. <hi>Venetiis</hi> 1615</item>
+               <item>266 Pellicani Comment. in S. Scrip. in Vol. <hi>Tiguri</hi> 1536</item>
+               <item>267 Foxe's Martyrology in 2 Vol. <hi>Lond.</hi> 1570</item>
+               <item>268 Mede's Works, firſt Volum <hi>Lond.</hi> 1664</item>
+               <item>269 Pineda in Jobum <hi>Pariſ.</hi> 1632</item>
+               <item>270 Chamieri Banſtratia Catholica in 2. Vol. <hi>Francof.</hi> 1627</item>
+               <item>271 Molendinei Conſuetudines Pariſienſes <hi>Pariſ.</hi> 143<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>272 Dutch Annotations, ſecond Volum <hi>Lond.</hi> 1657</item>
+               <item>273 Engliſh Statutes in Cromwel's time <hi>Lond.</hi> 1657</item>
+               <item>274 Nalſon's Hiſtorical Collections, in two Volums <hi>Lond.</hi> 1682</item>
+               <item>275 Piſcator in omnes Libros V. &amp; N. Teſt in 3 Vol. <hi>Herbornae</hi> 1646</item>
+               <item>276 Saliani annales Eccleſiaſt. <hi>Rothomogi</hi> 1646</item>
+               <item>277 Donelli Comment. de Jure Civili <hi>Francefurti</hi> 1589</item>
+               <item>278 Jackſon of Chriſts Prieſthood <hi>Lond.</hi> 1654</item>
+               <item>279 Riveti opera polemica <hi>Roterodami</hi> 1660</item>
+               <item>280 Gomari tractatus theologici</item>
+               <item>281 Juſtiniani Codex 1580</item>
+               <item>282 Corn. a Lapide Com. in S. Scrip. in Vol. <hi>Lut. Pariſ.</hi> 1637</item>
+               <item>283 Melanchthonis opera in 4 Vol. <hi>Witeberga</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>284 Lorini Comment. in diverſos Scrip. Libros in Vol. <hi>Ludg.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>285 Hugonis Cardinalis Comment. in diverſos Scripturae Libros in quatuor Vol. <hi>Col. Agrip.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>286 Stephani Theſaurus Linguae Graecae, in 4 Vol. 157<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>287 Suarez. de Legibus <hi>Antwerpiae</hi> 1619</item>
+               <item>288 Suarez. Metaphiſica <hi>Genevae</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>289 Suarez. de Virtute &amp; Statu Religionis in 3 Vol. <hi>Moguntiae</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>290 Suarez Diſp. in primam &amp; tertiam partem Divae Thomae in 6 Vol. 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>291 Suarez. de Divina Gratia <hi>Moguntiae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>292 Cothmanni Reſponſa Juris. Vol. quintum <hi>Francof.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>293 De Arecio in inſtitutiones Juſtiniani</item>
+               <item>294 Digeſtum vetus</item>
+               <item>295 Panormitanus ſuper Decretalia in 2 Vol.</item>
+               <item>296 De Caſtro's Conſilia 153<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>297 Mayni Conſilia 1534</item>
+               <item>298 Angeli de Clavaſio ſumma Angelica <hi>Nurenbergae</hi> 153<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>299 Becani opuſcula theologica <hi>Pariſiis</hi> 1633</item>
+               <item>300 Sibelii operum theologicorum Tomus primus <hi>Amſterodami</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>301 Pererii opera theologica <hi>Colon. Agrip.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>302 Eſtius in Libros Sententiarum <hi>Pariſ.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>303 Hammond's Annotations on the New Teſtament <hi>Lond.</hi> 1671</item>
+               <item>304 Hammond's Polemical Diſcourſes <hi>Lond.</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>305 Dieterici Antiquitates Biblicae <hi>Giſsae Haſsorum</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>306 Barrada's Concor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ia Evangelica in 2 Vol. <hi>Antwerp.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>307 Janſenii Concordia Evangelica <hi>Mogunt.</hi> 1612</item>
+               <item>308 Arriaga's Diſput. Theol. in D. Thomam in 6 Vol. <hi>Lugduni</hi> 1644</item>
+               <item>309 Eraſmus Paraph. on the Goſpels and Acts 1551</item>
+               <pb n="11" facs="tcp:179235:6"/>
+               <item>310 Grotii annotata ad vetus Teſtam. in 2 Vol. <hi>Lut. Par.</hi> 1644</item>
+               <item>311 Surdi Conſilia <hi>Francofurti</hi> 1616</item>
+               <item>312 Sanctii Comment. in S. Scrip. in 7 Vol, <hi>Lugduni</hi> 1623</item>
+               <item>313 Ruiz in O. Thomam in 3. Vol. <hi>Lugduni</hi> 1630</item>
+               <item>314 Alvarez in Iſaiam in 2 Vol. <hi>Lugduni</hi> 1623</item>
+               <item>315 Ribera in Prophetas minores <hi>Colon. Agrip.</hi> 1610</item>
+               <item>316 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercerus in Librum Jobi <hi>Genevae</hi> 1573</item>
+               <item>317 Aquinatis opuſcula <hi>Lugduni</hi> 1634</item>
+               <item>318 Concilia generalia in 2 Vol. <hi>Pariſiis</hi> 1524</item>
+               <item>319 Comptoni Theologia Scholaſtica <hi>Leodii</hi> 1659</item>
+               <item>320 Owen of the Perſeverance of the Saints <hi>Oxford</hi> 1654</item>
+               <item>321 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>auſon on the Epiſtle to the Hebrews <hi>Lond.</hi> 1662</item>
+               <item>322 Ryd's Chronologia <hi>Bernae</hi> 1540</item>
+            </list>
+            <list>
+               <head>Books in QUarto.</head>
+               <item>1 LAunoii Anti-Bellarminus <hi>Amſtelodami</hi> 1685</item>
+               <item>2 Pierce's Sinner Impleaded in his own Court <hi>Lond.</hi> 1670</item>
+               <item>3 Dilherri Diſp. Academicae <hi>Norimbergae</hi> 1655</item>
+               <item>4 Salviani opera cum Notis variorum <hi>Bremae</hi> 1688</item>
+               <item>5 Hiſtoire de Louys XI. <hi>A Paris</hi> 1628</item>
+               <item>6 Gerhardus de Paſſione Chriſti <hi>Genae</hi> 1617</item>
+               <item>7 Eobani Homiliae in Hiſt. Evangel. <hi>Franc. ad Moenum</hi> 1652</item>
+               <item>8 Roſini Antiquitates Romanae <hi>Lugduni</hi> 1606</item>
+               <item>9 Welſche againſt Brown. <hi>Edinburgh</hi> 1602</item>
+               <item>10 Engelgrave's Meditationes Sacrae <hi>Antwerp.</hi> 1658</item>
+               <item>11 Barroug's Method of Phyſick <hi>Antwerp.</hi> 1658</item>
+               <item>12 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laſſius in Evangelia Dominicalia <hi>Gotae</hi> 1647</item>
+               <item>13 Biblia Sacra Vulgatae Editionis <hi>Venetiis</hi> 1511</item>
+               <item>14 Corpus Juris cum Notis Gothofredi <hi>Lugduni</hi> 1652</item>
+               <item>15 Comber's Divine Right of Tythes <hi>Lond.</hi> 1682</item>
+               <item>16 Tenniſon of Idolatry <hi>Lond.</hi> 1678</item>
+               <item>17 Althuſii politica <hi>Groningae</hi> 1610</item>
+               <item>18 Chriſtiani cenſura in Epiſt. Irenicam Jo. Roſenthal <hi>Giſſae.</hi> 1656</item>
+               <item>19 Outramus de Sacrificiis <hi>Lond.</hi> 1677</item>
+               <item>20 Alvarez de Auxiliis Div: Gratiae <hi>Colon. Agrip.</hi> 1622</item>
+               <item>21 Riveti Iſagoge ad S. Scrip. <hi>Lugd. Batav.</hi> 1627</item>
+               <item>22 Voſſius de arte Grammatica <hi>Amſterodami</hi> 1634</item>
+               <item>23 Owen of Communion with God <hi>Oxford</hi> 1657</item>
+               <item>24 Gecierus in Prov. Salomonis <hi>Lypſiae</hi> 1653</item>
+               <item>25 Fabritius in Decalogum <hi>Bernae</hi> 1649</item>
+               <item>26 Reneccii Clavis S. S. Theol. <hi>Lubecae</hi> 1617</item>
+               <item>27 Muſaeus de E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cleſia <hi>Genae</hi> 1575</item>
+               <item>28 Chillingworth's Religion of Proteſtants, <hi>&amp;c. Lond.</hi> 1687</item>
+               <item>29 Molinei Paraeneſis <hi>Lond.</hi> 1656</item>
+               <item>30 Clark on the New Teſtament <hi>Lond.</hi> 1683</item>
+               <item>31 Langlaei Semeſtria <hi>Pariſ.</hi> 1611</item>
+               <pb n="12" facs="tcp:179235:7" rendition="simple:additions"/>
+               <item>32 A Dangerous Plot Diſcovered <hi>Lond.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>33 Voſſius de 4. Artibus Popularibus <hi>Amſteledami</hi> 1650</item>
+               <item>34 Kyperi Anthropologia <hi>Lugd. Batav.</hi>
+               </item>
+               <item>35 Janſenius in 4 Evangelia <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vanii</hi> 1639</item>
+               <item>36 Sharpii Curſus Theologicus <hi>Genevae</hi> 1620</item>
+               <item>37 Voſſius de Hiſtoricis Graecis <hi>Lugd. Batav.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>38 Hottingeri Exercitat. Anti-Morinianae <hi>Tiguri</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>39 Rivetus in Decalogum <hi>Lugd. Batav.</hi> 1637</item>
+               <item>40 Sandy's Europae Speculum <hi>Lond.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>41 Calixtus de Conjugio Clericorum <hi>Francofurti</hi> 1653</item>
+               <item>42 Moulin's Buckler of Faith <hi>Lond.</hi> 1631</item>
+               <item>43 Montague's Gagg for the new Goſpel <hi>Lond.</hi> 1624</item>
+               <item>44 Brochmanni Confutatio Apologiae Speculi Brandburgici <hi>Haf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iae</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>45 Arniſaeus de Repub. <hi>Argentorati.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>46 The Practical Divinity of Papiſts <hi>Lond.</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>47 Reynold's Treatiſes of the Vanity of the Creature, &amp;c. <hi>Lond.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>48 Zarnovicaei Vindiciae pro Satisfact. Chriſti <hi>Dantiſci.</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>49 Corpus Juris Canonici <hi>Lugduni</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>50 Plauti Comediae 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>51 Gregorius Tholoſanus in Jus Canonicum 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>52 Feynei Medicina Practica <hi>Lugduni</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>53 Damhouderii Praxis Rerum Criminalium <hi>Antwerpiae</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>54 Arias Montanus in Prophetas minores <hi>Antwerp.</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>55 Rami Scholae Mathematicae <hi>Baſil.</hi> 156<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>56 Paes in Epiſtolam Jacobi <hi>Lugd.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>57 Pflacheri Analyſis Typica <hi>Bafil.</hi> 1621</item>
+               <item>58 Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atius cum Notis Lambini <hi>Francof.</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>59 Honorii Theſauri Politici Continuatio <hi>Francof.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>60 Creed's Defence of Doctor Hammond <hi>Lond.</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>61 Laurentii Explicatio Locorum Difficilium in Epiſt. Paulinis <hi>Amſt.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>62 Camerarii Horae Subciſivae <hi>Francofurti</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>63 Cauſaboni Epiſtolae <hi>Hagae Comitis</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>64 Blount's Chriſtian Policy <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>65 Druſius in Prophetas minores <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>66 Brunemanni Repetitio Paratitlorum Weſenbecii <hi>Franc. ad Oderum</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>67 Schotani Heptaemeron <hi>Franekera</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>68 Voſſii Inſtitutiones Oratoriae <hi>Lugd. Batav.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>69 Prynne's Soveraign Power of Parliaments <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>70 Tarnovius de S. S. Trinitate <hi>Roſtochi</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>71 Kirby and Biſhop's Marrow of Aſtrology <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>72 Two Concordances for the Bible <hi>Lond.</hi>
+               </item>
+               <item>73 Rutherfurd againſt Liberty of Conſcience <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>74 Revii Suarez Repurgatus <hi>Lugd. Batav.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>75 Raleigh's Sermons <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>76 Voſſius de Logices &amp; Rhetoricae Natura <hi>Hagae Comitis</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>77 Tentamen Phyſico-Chymicum <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>78 Heinſii Exercitationes Saerx <hi>Cantab.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>79 Scheibleri Metaphyſica <hi>Marpurgi</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <pb n="13" facs="tcp:179235:7"/>
+               <item>80 Goodwin of the Authority of the Scriptures <hi>Lond.</hi> 1648</item>
+               <item>81 Kettlewel's Meaſures of Chriſtian Obedience <hi>Lond.</hi> 1681</item>
+               <item>82 Fraxini Specimen Notarum in Arminium <hi>Amſtel.</hi> 1619</item>
+               <item>83 Baxter's Key for Catholicks <hi>Lond.</hi> 1659</item>
+               <item>84 Ameſius in Pſalmos <hi>Amſtel.</hi> 1635</item>
+               <item>85 Calixtus in Epiſtolam ad Romanos <hi>Bru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>igae</hi> 1652</item>
+               <item>86 Pyndari Olympia, &amp;c. Graecé &amp; Lat. ex Editione Stephani</item>
+               <item>87 Laurentii Papiſtica Infernalis <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2</item>
+               <item>88 Marcelii Theologia <hi>Bruxellis</hi> 1658</item>
+               <item>89 Dering's Works <hi>Lond.</hi> 1614</item>
+               <item>90 Papiſts Miſ-repreſented and Repreſented, <hi>&amp;c.</hi> 1685</item>
+               <item>91 Wendelini Contemplationes Phyſicae <hi>Cantabrigiae</hi> 1648</item>
+               <item>92 Voſſii Theſes Theologicae <hi>Belloſiti Dobunorum</hi> 1628</item>
+               <item>93 Vorſtii Anti-Bellarminus Contractus <hi>Hannoviae</hi> 1610</item>
+               <item>94 Grotii Excerpta ex Tragaed. &amp; Comaed. Graecis <hi>Pariſ.</hi> 1626</item>
+               <item>95 Salmaſius de Primatu Papae <hi>Lugd. Batav.</hi> 1645</item>
+               <item>96 Baxter of Right to Sacraments <hi>Lond.</hi> 1645</item>
+               <item>97 Eniedinus de Trinitate</item>
+               <item>98 Cloppenburgii Socinianiſmus Confutatus <hi>Franekerae</hi> 1652</item>
+               <item>99 A Dola de Concurſu Dei cum Creaturis <hi>Lugduni</hi> 1634</item>
+               <item>100 Father Simon's Enquiry into the various Editions of the Bible <hi>Lond.</hi> 1684</item>
+               <item>101 Placaeus de Divina Chriſti Eſſentia <hi>Salmurii</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7</item>
+               <item>102 Rabbi Moſis Levi Hiſtoria Judaeorum <hi>Amſtel.</hi> 1681</item>
+               <item>103 Cloppenburgius de Divinitate Chriſti <hi>Franekerae</hi> 1652</item>
+               <item>104 Ball's Paſtorum Propugnaculum <hi>Lond.</hi> 1656</item>
+               <item>105 Streſo in Acta Apoſtolorum in 2 Vol. <hi>Amſtel.</hi> 1650</item>
+               <item>106 Voſſii Appendix ad Lib. de 70 Interpret. <hi>Hagae Comitis</hi> 1663</item>
+               <item>107 Willet's Antilogie <hi>Lond.</hi> 1603</item>
+               <item>108 Altingii Theologia Elenctica <hi>Amstel.</hi> 1664</item>
+               <item>109 Altingii Theologia Problematica <hi>Amſtel.</hi> 1662</item>
+               <item>110 Drake's Sacred Chronology <hi>Lond.</hi> 1648</item>
+               <item>111 Wittichii Annot. in Medit. Ren. des Carts. <hi>Dordrecti</hi> 1688</item>
+               <item>112 Quiſtorpii Annot. in omnes Libros Biblicos in 2 Vol. <hi>Roſtochii</hi> 1648</item>
+               <item>113 Phrynichii Epitome Dictionum Atticarum <hi>Augustae Vindel.</hi> 1601</item>
+               <item>114 Burgeſs Vindiciae Legis <hi>Lond.</hi> 1647</item>
+               <item>115 Bacon's Eſſays <hi>Lond.</hi> 1625</item>
+               <item>116 Montague's Apello Caeſarem <hi>Lond.</hi> 1625</item>
+               <item>117 Grynaei Theologica Theoremata <hi>Baſil.</hi> 1589</item>
+               <item>118 A Relation of the Proceedings againſt the Gun-Powder Traytors <hi>Lond.</hi> 1606</item>
+               <item>119 Hottingerus de Uſu Linguarum Orientalium <hi>Heidelbergae</hi> 1642</item>
+               <item>120 Gnawerid's Polemica Sacra <hi>Genae</hi> 1656</item>
+               <item>121 Azo in Codicem Juſtiniani 1596</item>
+               <item>122 Jo. Epiſc. Roff. de Poteſt. Papae in Rebus Temporalibus <hi>Lond.</hi> 1614</item>
+               <item>123 Laurentius in Epiſtolam Petri <hi>Amstel.</hi> 1647</item>
+               <item>124 Cujaci Opera P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſthuma <hi>Francof.</hi> 1598</item>
+               <item>125 Sanctius in Acts Apoſtolorum <hi>Lugd.</hi> 1616</item>
+               <item>126 Sophoclis Tragaediae Gr. &amp; Lat. cum Notis Camer. &amp; Stephani 1603</item>
+               <item>127 Topſell on the Propheſie of Joel <hi>Lond.</hi> 1613</item>
+               <pb n="14" facs="tcp:179235:8" rendition="simple:additions"/>
+               <item>128 Heylyn's Hiſtoria Quinqu-Articularis <hi>Lond.</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>129 Polani Syntagma <hi>Hannoviae</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>130 Schotani Syſtema Concionum <hi>Franekerae</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>131 Heſychii Lexicon Graecum cum Notis variorum <hi>Lugd. Bat.</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>132 Hoffmanni Opuſcula Medica <hi>Franc. ad Moenum</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>133 Pfeifferi Actio Rei Amotae contra Papam <hi>Lypſiae</hi> 168<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>134 Alſtedii Trifolium Propheticum <hi>Herbornae Naſſ.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>135 Henriet's Harmonia Evangelica <hi>Pariſ.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>136 Borcholten in Inſtitutiones Juſtiniani <hi>Genoae</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>137 Boetius de Conſol. Philoſophiae cum Notis Aſcenſii <hi>Lugd.</hi> 149<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>138 Rolfincii Diſſertationes Anatomicae <hi>Noribergae</hi> 155<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>139 The Bloody Tenent 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>140 Dorſchaei Theologia Moralis <hi>Witebergae</hi> 168<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>141 Gaul's Mag-Aſtro-Mancer <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>142 Sclater on the Epiſtles to the Theſſalonians <hi>Lond.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>143 Placaeus de Imputatione primi Peccati Adami <hi>Salmurii</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>144 Fabritius in Decalogum <hi>Bernae</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>145 Quiſtorpius in omnes Novi Teſtamenti Libros <hi>Francofurti</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>146 Lomecerus de Veterum Gentilium Luſtrationibus <hi>
+                     <g ref="char:V">Ʋ</g>ltrajecti</hi> 1681</item>
+               <item>147 Garroni la Piazza Univerſale <hi>In Venetia</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>148 Coci Cenſura quorundam Scriptorum <hi>Lond.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>149 Bembo's Hiſtoria Vinitiana <hi>In Venetia</hi> 157<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>150 Weſenbecius in Pandectas 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>151 Strangius de Scriptura <hi>Roterodami</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>152 Lypſius de Militia Romana <hi>Antwerpiae</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>153 Infroductorium Medicorum <hi>Papiae</hi> 152<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>154 Couell's Interpreter <hi>Cambridge</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>155 Ariſtot. Phyſica, &amp;c. Graece <hi>Francofurti</hi>
+               </item>
+               <item>156 Baricave's Defence de Monarchie Fracois <hi>A Thol.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>157 Lypſii Opera Critica <hi>Antwerpiae</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>158 Binchii Mellificium Theologicum <hi>Francofurti</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>159 Braunii Doctrina Foederum <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>160 Ariſtot. Logica Gr. &amp; Lat <hi>Genevae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>161 Iſingius in Pentat. &amp; Joſhuam <hi>Franc. ad Moenum</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>162 The Guide in Controverſies 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>163 Calovius de Divinitate Chriſti 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>164 Dorſchaei Pentadecas <hi>Argentorati</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>165 Abbot on the Pſalms <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>166 Gujaci Operum Epitome <hi>Pariſ.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>167 Platina de Vitis Pontificum Romanorum <hi>Colon. Agrip.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>168 Roger's Matrimonial Honour <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>169 Sibb's Bowels Opened <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>170 Andrews Tortura Torti <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>171 Charron of Wiſdom <hi>London</hi>
+               </item>
+               <item>172 Baxter of Church-Government and Worſhip <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>173 Forbeſii Irenicum <hi>Aberdoniae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>174 Voſſius de Baptiſmo <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>175 Burrough's Irenicum <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <pb n="15" facs="tcp:179235:8"/>
+               <item>176 Galenus de Differentiis Morborum, &amp;c. <hi>Pariſ.</hi>
+               </item>
+               <item>177 Su<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>clieffe of Eccleſiaſti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Diſcipline <hi>London</hi> 1590</item>
+               <item>178 Guillimeau's Happy Delivery of Women <hi>London</hi> 1612</item>
+               <item>179 Valdeſſo's Conſiderations <hi>Oxford</hi> 1638</item>
+               <item>180 Sibelii Meditationes Catecheticae <hi>Daventriae</hi> 1646</item>
+               <item>181 Altingii Scripta Theologica <hi>Amſtel.</hi> 1662</item>
+               <item>182 Graecae Linguae Spicilegium <hi>Lond.</hi> 1575</item>
+               <item>183 Polyander in Proverbia Solomonis <hi>Amſtel.</hi> 1663</item>
+               <item>184 Acta Synodalia Remonſt. <hi>Herderwicii</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0</item>
+               <item>185 Rutherfurd's Divine Right of Church-Government <hi>London</hi> 1646</item>
+               <item>186 Rights of the Kingdom <hi>London</hi> 1649</item>
+               <item>187 Anrelo-Cratoris Epitome Concil. &amp; Acad. <hi>Marpurgi</hi> 1610</item>
+               <item>188 Voſſius de Hiſtoricis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atinis <hi>Lugd. Batav.</hi> 1627</item>
+               <item>189 Roger on the Parables of the fifteenth of Luke <hi>London</hi> 1632</item>
+               <item>190 Hall's Remains <hi>London</hi> 1660</item>
+               <item>191 Spanhemii Dubia Evangelica <hi>Genevae</hi> 1651</item>
+               <item>192 Ariſtot. Ethica Graece <hi>Francofurti</hi> 1584</item>
+               <item>193 Fonſeca in Metaphyſicam Ariſtotelis <hi>Colon.</hi> 1615</item>
+               <item>194 Tarnovii Medulla Evangeliorum Dominicalium <hi>Roſtochii</hi> 1643</item>
+               <item>195 De Ferrariis Practica Juris <hi>Lugd.</hi> 1549</item>
+               <item>196 Baxter's Naked Popery <hi>London</hi> 1677</item>
+               <item>197 Rollock on the Epiſtle to the Coloſſians</item>
+               <item>198 Arniſaeus de Jure Connubiorum <hi>Francofurti</hi> 1613</item>
+               <item>199 Willis Opera Omnia <hi>Amſtel.</hi> 1682</item>
+               <item>200 Dod and Cleaver on the Lords Supper <hi>London</hi> 1632</item>
+               <item>201 Molinaei Paraeneſis <hi>Lond.</hi> 1656</item>
+               <item>202 Collegium Conimbricenſe in Phyſicam Ariſtotelis <hi>Colon.</hi> 1625</item>
+               <item>203 Mareſius de Libris Canonicis <hi>Groningae</hi> 1657</item>
+               <item>204 Molinaei Comment. ad Edictum contra Parvas Datas <hi>Lugd.</hi> 1522</item>
+               <item>205 Buceri Defenſio Reformationis Eccleſiae <hi>Genevae</hi> 1613</item>
+               <item>206 Caſtanaei Diſtinctiones <hi>Col. Agrip.</hi> 1644</item>
+               <item>207 Luitprandus de Vitis Romanorum Pontificum <hi>Mogunt.</hi> 1602</item>
+               <item>208 Johannes Duns Scotus in Phyſicam Ariſtotelis <hi>Col. Agrip.</hi> 1582</item>
+               <item>209 Grotius de Satisfac. Chriſti <hi>Lugd. Batav.</hi> 1617</item>
+               <item>210 inventaire general de l. Hiſtoire de Spaigne <hi>A Paris</hi> 1628</item>
+               <item>211 Vinnius in Inſtitutiones Juſtiniani <hi>Amſtel.</hi> 1659</item>
+               <item>212 Tarnovius in Hoſeam <hi>Roſtochii</hi> 1606</item>
+               <item>213 Peltii Harmonia Remonſt. &amp; Socin. <hi>Lugd. Batav.</hi> 1633</item>
+               <item>214 Biſhop of Lincoln's Anſwer to a Catholick Engliſhman <hi>London</hi> 1609</item>
+               <item>215 Robrough's Doctrine of Juſtification cleared <hi>London</hi> 1643</item>
+               <item>216 Konig's Caſus Conſcientiae 1654</item>
+               <item>217 De Maetz Sylva Qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. Inſignium <hi>
+                     <g ref="char:V">Ʋ</g>ltrajecti</hi> 1650</item>
+               <item>218 Collection of Canons and Orders Eccleſiaſtical <hi>London</hi> 1661</item>
+               <item>219 Tarnovius in Jonam &amp; ſequentes Prophetas <hi>Roſtochii</hi> 1647</item>
+               <item>220 The Bible in French <hi>A Genev.</hi> 1588</item>
+               <item>221 Seldenus de Jure Haereditario ad Leges Haebraeorum <hi>Lond.</hi> 1631</item>
+               <item>222 Page's Juſtification of the Bowing at the Name of Jeſus <hi>Oxford</hi> 1631</item>
+               <item>223 Parkerus de Politeia Eccleſiaſtica 1616</item>
+               <pb n="16" facs="tcp:179235:9"/>
+               <item>224 Bellarminus in Pſalmos <hi>Lugd.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>225 Baxter's Reaſons of the Chriſtian Religion <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>226 Bonae Opera omnia <hi>Antwerpiae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>227 Boyl of the Uſefulneſs of Experience in Natural Philoſophy <hi>Oxford</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>228 Steilman's Peace-Offering <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>229 Geree againſt the Antinomians <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>230 Waſmuth Hebraiſmus Reſtitutus <hi>Kiloni</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>231 Durelli Eccleſiae Anglicanae Vindiciae <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>232 De Guevara's Horologium Principum 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>233 Libri Apocryphi Graece <hi>Antwerpiae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>234 Potter's Interpretation of the Number 666 <hi>Oxford</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>235 Jeane's of the Indifferency of Humane Actions <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>236 Burrough's Excellency of Holy Courage in ill Times <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>237 Broun de Cauſa Dei <hi>Roterodami</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>238 Fulleri Miſcellanea Theologica <hi>Oxoniae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>239 Hammond's Diſpatcher Diſpatched <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>240 Collegium Conimbricenſe in Ariſtotelem de Anima <hi>Lugduni</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>241 Terentius in Engliſh and Latine <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>242 Lauredanus in Ariſtotelem de Coelo <hi>Venetiis</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>243 Elton on the Commands <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>244 Cenſura Confeſſionis Remonſtrantium <hi>Lugd. Batav.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>245 Gerhardus in poſtremam Epiſtolam Petri <hi>Genae</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>246 Jus Divinum R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>giminis Eecleſiaſtici <hi>Lond.</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>247 Ryff's Quaeſtio. Geometricae <hi>Francof.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>248 Calixtus in Epiſtolam ad Philippenſes <hi>Brunſwigae</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>249 Sibelius de Cavendis Scandalis <hi>Daventriae</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>250 Recueil de Diverſes Pour Servir A L' Hiſtoire 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>251 Jackſon of Juſtifying Faith <hi>London</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>252 Breviarum Romanum <hi>Pariſ.</hi> 155<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>253 Garthwait's Evangelical Harmony <hi>Cambridge</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>254 Ameſius in Pſalmos <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>255 Nicholſon's Expoſition of the Catechiſm of England <hi>London</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>256 Blake's Vindiciae Foederis <hi>Lond.</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>257 Grotius de Antiquitate Reipublicae Batavicae <hi>Raphelengii</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>258 Statius, Silius Italicus, Juvenalis, &amp; alii Poetae</item>
+               <item>259 Caninii Inſtitutio Linguae Syriacae <hi>Pariſ.</hi> 155<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>260 Brinſly's Ludus Literarius <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>261 Crocius de Auguſt. Confeſſ. Societate <hi>Caſſellis</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>262 Mercurius Triſmegiſtus Gr. &amp; Lat. <hi>Burdigalae</hi> 157<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>263 Van Maſtrichts Theoretico-Practica Theologia <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>264 Cappelli Obſervationes in Novum Teſtamentum <hi>Amstel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>265 Baxter's Confeſſion of Faith <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>266 Caudrey's Sabbatum Redivivum <hi>Lond.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>267 The Jeſuits Loyalty <hi>London</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>268 Featley's Defence of Lynd's Via Tuta <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>269 Dounami Papa Antichriſtus <hi>Lond.</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>270 The Nullity of the pretended Aſſembly at Saint <hi>Andrews</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>271 Novum Teſtamentum Syriacum <hi>Cothenis</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <pb n="17" facs="tcp:179235:9"/>
+               <item>272 Sherlock of Providence <hi>London</hi> 1694</item>
+               <item>273 Baxter of Juſtification <hi>London</hi> 1658</item>
+               <item>274 Sculteti Exercit. Evangelicae <hi>Amſtel.</hi> 1624</item>
+               <item>275 Jus Divinum Regiminis Eccleſiaſtici <hi>Lond.</hi> 1647</item>
+               <item>276 Feſſeli Adverſaria Sacra <hi>Witebergae</hi> 1650</item>
+               <item>277 Strangius de Actionibus Dei circa Peccatum <hi>Amſtel.</hi> 1657</item>
+               <item>278 Tarnovii Nucleus Epiſtolarum Dominicalium 1643</item>
+               <item>279 Eſſeiri Triumphus Crucis <hi>Amſtel.</hi> 1649</item>
+               <item>280 Calovii Harmonia Calixtino-Haeretica <hi>Witebergae</hi> 1655</item>
+               <item>281 Triglandi Syſtema Diſp. Theolog. <hi>Lugd. Batav.</hi> 1650</item>
+               <item>282 Whitakeri Praelectiones <hi>Francof.</hi> 1624</item>
+               <item>283 Crakanthorp's Defenſio Eccleſiae Anglicanae <hi>Lond.</hi> 1625</item>
+               <item>284 Amyraldus in Pſalmos <hi>Salmurii</hi> 1662</item>
+               <item>285 Vorſtii Amica Collatio cum Piſcatore <hi>Goudae</hi> 1613</item>
+               <item>286 Brochmand de Miniſterio Eccleſiaſt.</item>
+               <item>287 Salianus de Amore Dei <hi>Lutet. Pariſ.</hi> 1631</item>
+               <item>288 Markham's Huſbandry <hi>London</hi> 1631</item>
+               <item>289 Bruce's Way to true Peace and Reſt <hi>London</hi> 1617</item>
+               <item>290 Gallucci's della Fabrica dell, Aſtrolabio <hi>In Venetia</hi> 1597</item>
+               <item>291 Vinnii Partitiones Juris <hi>Roterodami</hi> 1663</item>
+               <item>292 Gaill's Practicae Obſervationes <hi>Col. Agrip.</hi> 1608</item>
+               <item>293 Mennen's Aureum Vellus <hi>Antwerpiae</hi> 1604</item>
+               <item>294 Druſii Opuſcula ad Grammaticam ſpectantia <hi>Franekerae</hi> 1609</item>
+               <item>295 Piccolominei Phyſica <hi>Francof.</hi> 1597</item>
+               <item>296 Ptolomaei Geographiae <hi>Colon. Agrip.</hi> 1597</item>
+               <item>297 Voſſius de 70 Interpret. <hi>Hagae-Comitum</hi> 1661</item>
+               <item>298 Vorſtius in Epiſtolas Apoſtolicas <hi>Amſtelodami</hi> 1631</item>
+               <item>299 Parker of the Law of Nature <hi>London</hi> 1661</item>
+               <item>300 Micraelii Syntagma Hiſtoriarum Eccleſiaſticarum <hi>Lypſiae</hi> 1679</item>
+               <item>301 Gee's Foot out of the Snare <hi>London</hi> 1624</item>
+               <item>302 Nazari della Tramutatione Metallica <hi>In Bretia</hi> 1599</item>
+               <item>303 Biblia Vulgatae Editionis <hi>Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ.</hi> 1552</item>
+               <item>304 Collin's Defence of Biſhop Andrews <hi>Cambridge</hi>
+               </item>
+               <item>305 Cluveri Hiſtor. Mundi Epitome 1640</item>
+               <item>306 Kromayeri Theol. Poſitiva Polemica <hi>Lypſiae</hi> 1652</item>
+               <item>307 Lauren. Vallae Elegantiae <hi>Pariſ.</hi> 1542</item>
+               <item>308 Cundiſius de Lege &amp; Evangelio <hi>Genae</hi> 1653</item>
+               <item>309 Appiani Coſmographia <hi>Antwerpiae</hi> 1528</item>
+               <item>310 Jacobi ſexti Declaratio pro Jure Regio <hi>Lond.</hi> 1616</item>
+               <item>311 Page on the Lords Prayer <hi>London</hi> 1631</item>
+               <item>312 Pilkinton upon Nehemiah <hi>Cambridge</hi> 1585</item>
+               <item>313 Cochlei Apologia pro Regno Scotiae 1534</item>
+               <item>314 Mayer on the Catechiſm of the Church of England</item>
+               <item>315 Majoli Dies Caniculares <hi>Moguntiae</hi> 1607</item>
+               <item>316 The Overthrow of Stage-Plays <hi>Oxford</hi> 1629</item>
+               <item>317 Caſauboni ad Ducaeum Epiſtola <hi>Lond.</hi> 1611</item>
+               <item>318 Pocklington's Altare Chriſtianum <hi>Lond.</hi> 1637</item>
+               <item>319 Zieglerus de Epiſcopis <hi>Norimbergae</hi> 1686</item>
+               <pb n="18" facs="tcp:179235:10"/>
+               <item>320 Weinrichius in Epiſtolas ad Timotheum <hi>Lypſiae</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>321 Briſſonius de Ritu Nuptiarum <hi>Pariſi.</hi> 156<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>322 Morini Trigonometria Canonica <hi>Pariſ.</hi> 1633</item>
+               <item>323 Merce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Tabulae in Gram. Chaldaeam <hi>Pariſ.</hi> 156<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>324 Rollocus in Danielem <hi>Edinburgi</hi> 1591</item>
+               <item>325 Egliſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mmii Criſis Vorſtiani Reſponſi <hi>Delphis</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2</item>
+               <item>326 The Doctor's of Aberdeens Demands anent the Cov. <hi>&amp;c. Aberdeen</hi> 1663</item>
+               <item>327 Mornai Reſpon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ad Epiſcopum Ebroicenſem <hi>Hanoviae</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>328 Ayleſbury de Aeterno Dei Decreto <hi>Cantabrigiae</hi> 1659</item>
+               <item>329 Feſſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i Theatrum Theologico-Politico-Hiſtoricum <hi>Ciiſtrini</hi> 1661</item>
+               <item>330 Paybodie's Apologie for Kneeling at the Sacrament <hi>London</hi> 1629</item>
+               <item>331 Ironſide's ſeven Queſtions of the Sabbath <hi>Oxford</hi> 1639</item>
+               <item>332 Primroſe of the Sabbath and Lord's Day <hi>London</hi> 1636</item>
+               <item>333 Siris Mercurio <hi>In Caſale</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>334 Moore of Faith <hi>London</hi> 1656</item>
+               <item>335 Hoeferi Hercules Medicus <hi>Viennae Auſtriae</hi> 1657</item>
+               <item>336 Voſſius de Artis Poeticae Natura <hi>Amſtel.</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>337 Allin and Shepard's Defence of the nine Poſitions <hi>London</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>338 Prin's Perpetuity of a Regenerate Mans Eſtate <hi>London</hi> 1627</item>
+               <item>339 Atterſoll of the new Covenant <hi>London</hi> 1614</item>
+               <item>340 Ptolemaeus de Judiciis <hi>Lovanii</hi> 154<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>341 Beza de Excommunicatione &amp; Chriſtiano Presbyterio <hi>Genevae</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>342 Wright of the Paſſions of the Mind <hi>London</hi> 1620</item>
+               <item>343 Vine's of the Sacrament of the Lords Supper <hi>London</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>344 Voſſius de Controv. Pelagianis <hi>Lugd. Bat.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>345 Sibelii Hiſtoria Hiſkiae Regis Judae lethaliter aegrotantis <hi>Daventriae</hi> 1643</item>
+               <item>346 Polydor. Vergil. de Inventoribus Rerum <hi>Pariſ.</hi> 1528</item>
+               <item>347 An Apology for Eccleſiaſtical Proceedings <hi>London</hi> 1592</item>
+               <item>348 Suffragium Theol. Britannorum de 5 Remonſt. Articulis <hi>Lond.</hi> 1627</item>
+               <item>349 Goodwin's Defence of the Meaning of Romans 4th. 3d. 5th. &amp; 9th. Ch. 1641</item>
+               <item>350 Struther's Happineſs of David's Choice <hi>Edinburgh</hi> 1633</item>
+               <item>351 Reggus de Statu Eccleſiae Britannicae Hodierna <hi>Dantiſci</hi> 1647</item>
+               <item>352 Thoma's Italian Grammar <hi>London</hi> 1567</item>
+               <item>353 Pemble's Vindiciae Fidei <hi>Oxford</hi> 1629</item>
+               <item>354 Wot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on's Elements of Architecture <hi>London</hi> 1624</item>
+               <item>355 Mornay's Memoirs 1626</item>
+               <item>356 Caleſtani's delle Oſſervationi <hi>In Venetia</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>357 Cevallerii Rudimenta Hebraicae Linguae <hi>Witebergae</hi> 1574</item>
+               <item>358 Bodin de la Demonomanie des Sorciers <hi>A Paris</hi> 1587</item>
+               <item>359 A Political Catechiſm <hi>London</hi> 1643</item>
+               <item>360 Lightfoot's Horae Hebraicae in Lucam <hi>Lond.</hi> 1674</item>
+               <item>361 Cundiſii Iſagoge ad Locos Theologicos Gerhardi <hi>Genae</hi> 1648</item>
+               <item>362 Broughtonus In Danielem <hi>Baſilea</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>363 Rationale Divinorum Officiorum</item>
+               <item>364 Polhill's Speculum Theologiae in Chriſto <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>365 Appollonius Alexandrinus de Syntaxi Gr. &amp; Lat. <hi>Fran.</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>366 Voſſii Ars Hiſtorica <hi>Lugd. Batav.</hi> 1653</item>
+               <item>367 Eraſtus de Aſtrologia divinatrice 1569</item>
+               <pb n="19" facs="tcp:179235:10"/>
+               <item>368 Pelargus in Librum Numerorum <hi>Lypſia</hi> 1606</item>
+               <item>369 Etimulleri Medicus Inſtructus <hi>Francof.</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>370 Martin's Architecture <hi>Genoae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>8</item>
+               <item>371 Arati Phaenomena, &amp;c. Graece <hi>Pariſ.</hi> 1559</item>
+               <item>372 Rhetorfortis de Divina Providentia <hi>Edinb.</hi> 1649</item>
+               <item>373 <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>opſnerus de Juſtificatione <hi>Lypſiae</hi> 1653</item>
+               <item>374 W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſenba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hus in Pandectas <hi>Lypſiae</hi> 1673</item>
+               <item>375 Wre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Increpatio Barjeſu <hi>Lond.</hi> 1660</item>
+               <item>376 Baptiſtae Portae Villa <hi>Francof.</hi> 1592</item>
+               <item>377 Ma<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>am <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e Roches Miſſives <hi>A Paris</hi> 1586</item>
+               <item>378 Baldus de Verborum Vitruvianorum Significatione <hi>Aug. Vind.</hi> 1612</item>
+               <item>379 Druſii Annotationes in Eccleſiaſten <hi>Amſterodami</hi> 1635</item>
+               <item>380 Stephen's Defence of the Doctrine of Original Sin <hi>London</hi> 1658</item>
+               <item>381 Gatakerus de Novi Inſtrumenti Stylo <hi>Lond.</hi> 1648</item>
+               <item>382 Homeri Gnomologia cum Notis Duporti <hi>Cantabrig.</hi> 1660</item>
+               <item>383 Hottingeri Theſaurus Philologicus <hi>Tiguri</hi> 1649</item>
+               <item>384 Walker's God made Viſible in his Works <hi>London</hi> 1641</item>
+               <item>385 Sculteti Idea Concionum in Epiſtolam ad Romanos <hi>Heydelberg.</hi> 1619</item>
+               <item>386 P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erce's Decad of Caveats to the People of England <hi>London</hi> 1679</item>
+               <item>387 Pitſaeus in Evangelia &amp; Acta Apoſtolorum <hi>Duaci</hi> 1636</item>
+               <item>388 Platonis Ep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtolae Gr. &amp; Lat. <hi>Baſil.</hi>
+               </item>
+               <item>389 Cordanus de Somniis</item>
+               <item>390 Moulin's Anatomy of Arminianiſm <hi>London</hi> 1656</item>
+               <item>391 The Civil Right of Tythes <hi>London</hi> 1650</item>
+               <item>392 Jackſon of Unbelief <hi>London</hi> 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>5</item>
+               <item>393 Cloppenburgii Loci Communes <hi>Franekerae</hi> 1653</item>
+               <item>394 Mareſii Defenſio Doctrinae de S. S. Trinitate <hi>Groningae</hi> 1662</item>
+               <item>395 Baxter's Apology againſt Blake <hi>London</hi> 1654</item>
+               <item>396 Epicteti Enchiridion Graece <hi>Venetiis</hi> 1528</item>
+               <item>397 Voſſius de Poetis Gracis <hi>Amſtel.</hi> 1654</item>
+               <item>398 Dupleix's loix Militaires touchant Le Duelle <hi>A Paris</hi> 1602</item>
+               <item>399 Clichtoveus de Puritate Conceptionis Beatae Virginis <hi>Pariſ.</hi> 1513</item>
+               <item>400 Bolton's Saints ſure and perpetual Guide, <hi>&amp;c. London</hi> 1634</item>
+               <item>401 Guerini's L'Uſo della Squadra Mobile <hi>In Venetia</hi> 1598</item>
+               <item>402 Adamſoni Poemata <hi>Londini</hi> 1619</item>
+               <item>403 The Spirit of Detraction Conjured and Convicted <hi>London</hi> 1611</item>
+               <item>404 Bohl's Comment. Biblico-Rabbinicus <hi>Stetini</hi> 1636</item>
+               <item>405 Goclenti Lexi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on Philoſophicum <hi>Francof.</hi> 1613</item>
+               <item>406 Amyraldus de Gratia Univerſali <hi>Salmurii</hi> 1648</item>
+               <item>407 Var<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mundus de Furoribus Gallicis <hi>Edinb.</hi> 1573</item>
+               <item>408 Aurea Bulla Caroli quarti Imperatoris <hi>Moguntiae</hi> 1575</item>
+               <item>409 Blacwoodaus adverſus Buchan. Dialog. de Jure Regni 1581</item>
+               <item>410 Heurnius in Hippo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ratis Prognoſtica <hi>Lugd. Batav.</hi> 1597</item>
+               <item>411 Love's Growth in Grace, <hi>&amp;c. London</hi> 1654</item>
+               <item>412 Geirus in P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>almos in 2 Vol. <hi>Dreſdae</hi> 1668</item>
+               <item>413 Burmanni Synopſis Theologiae in 2 Vol. <hi>Genevae</hi> 1658</item>
+               <item>414 The Morning Exercive at Cripplegate, ſecond Volum <hi>London</hi> 1671</item>
+               <item>415 Caryl on Job in eight Volums <hi>London</hi> 1661</item>
+               <pb n="20" facs="tcp:179235:11"/>
+               <item>416 Feſſelii Adverſaria Sacra <hi>Witebergae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>417 Fonſeca in Phyſicam Ariſtotelis <hi>Coloniae</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>418 Calixti Concordia Evangelica <hi>Goſlarii</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>419 Abbot's Anſwer to Biſhop <hi>London</hi> 1609</item>
+               <item>420 Duranti Repertorium Juris <hi>Lugduni</hi> 1531</item>
+               <item>421 Pupilla Oculi <hi>Rothomogi</hi> 1511</item>
+               <item>422 Hiſtoria del' Reydon Rodrigo <hi>En Caragoca</hi> 1603</item>
+               <item>423 Du Cheſne's Grand Miroir <hi>A Lyon</hi>
+               </item>
+               <item>424 Speculum Legis in 2 Vol. <hi>Lugduni</hi> 1531</item>
+               <item>425 Caron's la Philoſophie <hi>A Paris</hi> 1555</item>
+               <item>426 Le Code du Roy de France <hi>A Roven</hi> 1635</item>
+               <item>427 Richteri Axiomata OEconomica Gorlicei 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>428 Laurentius de Criſibus, <hi>&amp;c. Pariſiis</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>429 Voetii Selectae Diſput. Theologicae <hi>
+                     <g ref="char:V">Ʋ</g>ltrajecti</hi> 1648</item>
+               <item>430 Rainoldus de Libris Apocryphis <hi>Oppenheimii</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>431 Brandmylleri Analyſis Typica in 3 Vol. <hi>Baſileae</hi> 1621</item>
+               <item>432 Miſcellanies in eleven Volums</item>
+               <item>433 Gerhardi Iſagoge Locorum Theologicorum in 3 Vol. <hi>Genae</hi> 1658</item>
+               <item>434 Gerhardi Diſput. Theologicae in 3 Vol. <hi>Genae</hi> 1659</item>
+               <item>435 Gerhardus in Epiſtolas ad Rom. Heb. 1 Pet. &amp; Apoc. in 4 Vol.</item>
+               <item>436 Laurentii Conciones Sacrae <hi>Herdervici</hi> 1630</item>
+               <item>437 Glaſſius in Evangelia &amp; Epiſtolas Dominicales in 3 Vol. <hi>Gotae</hi> 1632</item>
+               <item>438 Gurnal's Spiritual Armour in three Volums <hi>London</hi> 1655</item>
+               <item>439 Biblia Hebraica ex Editione Stephani</item>
+               <item>440 Richteri Axiomata Eccleſiaſtica <hi>Gorlicei</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>441 Fechtii Hiſtoria Eccleſiaſtica <hi>Durlaci</hi> 1084</item>
+               <item>442 Dilheri Diſp. Academicae <hi>Norimbergae</hi> 1652</item>
+               <item>443 The French Academy in French <hi>A Lyon</hi> 1615</item>
+               <item>444 Confutatio Speculi Veritatis Brandeburgici in 2 Vol.</item>
+               <item>445 Charron's OEuvres <hi>A Paris</hi> 1635</item>
+               <item>446 Apologia Remonſtrantium 1629</item>
+            </list>
+            <list>
+               <head>Books in Octavo &amp; infra.</head>
+               <item>1 HOratius in Uſum Delphini <hi>Lond.</hi> 1694</item>
+               <item>2 Taciti Opera cum Notis Gronovii in 2 Vol. <hi>Amſtel.</hi> 1672</item>
+               <item>3 Turſellini Epitome Hiſtoriarum <hi>Franekerae</hi> 1688</item>
+               <item>4 Creſſy's Sancta Sophia <hi>Douay</hi> 1657</item>
+               <item>5 More's Dialogues <hi>London</hi> 1668</item>
+               <item>6 Parker's Religion and Loyalty <hi>London</hi> 1684</item>
+               <item>7 The Principles and Practiſes of the Latitudinarians <hi>London</hi> 1670</item>
+               <item>8 Tillitſon's Sermons, firſt and ſecond Volums <hi>London</hi> 1685</item>
+               <item>9 Baxter's Cure of Church-Diviſions <hi>London</hi> 1670</item>
+               <item>10 Stillingfleet's Defence of the Unreaſonableneſs of Separation <hi>London</hi> 1682</item>
+               <item>11 Rulandi Synonomia Latino-Graeca <hi>Genevae</hi> 1646</item>
+               <item>12 Pindarus, Callimachus, Muſaeus, &amp; alii, Graece <hi>Venetiis</hi> 1513</item>
+               <pb n="21" facs="tcp:179235:11"/>
+               <item>13 Catonis diſticha de moribus gr. &amp; lat. <hi>Lugduni Bat.</hi> 1626</item>
+               <item>14 Woodford's Paraph. on the Canticles <hi>Lond.</hi> 1679</item>
+               <item>15 Molinaei elementa logica <hi>Amſtel.</hi> 1620</item>
+               <item>16 Oſorius de Regis inſtitutione <hi>Coloniae</hi> 1588</item>
+               <item>17 Lactantii opera cum notis Tho Spark <hi>Oxoniae</hi> 1684</item>
+               <item>18 The Bible in French <hi>Genevae</hi> 1688</item>
+               <item>19 Itinerarium Italiae <hi>Coloniae Agrip.</hi> 1602</item>
+               <item>20 Caeſar's Comment. in French <hi>A Paris</hi> 1546</item>
+               <item>21 Leuccii obſervationes politicae <hi>Argentinae</hi> 1601</item>
+               <item>22 Sander's elementa Geometriae <hi>Glaſgow</hi> 1686</item>
+               <item>23 Brunneri Synopſis locorum legalium</item>
+               <item>24 Studly's looking glaſs of Schiſm <hi>Lond.</hi> 1634</item>
+               <item>25 Baxter's Confirmation &amp; Reſtauration <hi>Lond.</hi> 1658</item>
+               <item>26 Emanuelis aphoriſmi confeſſariorum <hi>Pariſiis</hi> 1603</item>
+               <item>27 Demoſthenis orationes Olynthiácae et Philippicae gr. &amp; lat. 1620</item>
+               <item>28 Sylvii praxis medica <hi>Lugduni Batavorum</hi> 1671</item>
+               <item>29 Scala polytica della tyrannia papale <hi>on Roma</hi> 1617</item>
+               <item>30 Catecheſis Racoviana <hi>Racoviae</hi> 1619</item>
+               <item>31 Earl of Mancheſter's Coutemplatio mortis &amp; immortalitatis <hi>Lond.</hi> 1677</item>
+               <item>32 Belli Hermes politicus <hi>Francofurti</hi> 1668</item>
+               <item>33 Europaei Monarchia Solipſorum 1648</item>
+               <item>34 Rollocus in Epiſt. ad Rom. <hi>Genevae</hi> 1596</item>
+               <item>35 Behmens way to Chriſt diſcovered <hi>Lond.</hi> 1656</item>
+               <item>36 Raynoldi orationes <hi>Lond.</hi> 1628</item>
+               <item>37 Heinſii orationes <hi>Lugduni Batav</hi> 1642</item>
+               <item>38 Inſtitutiones juris civilis graece <hi>Pariſiis</hi> 1534</item>
+               <item>39 Calvini princeps Chriſtianus <hi>Moguntiae</hi> 1603</item>
+               <item>40 Sturmii Schola Lavingana <hi>Lavingae</hi> 1565</item>
+               <item>41 Trithemii polygraphia <hi>Argentin.</hi> 1600</item>
+               <item>42 Danaei antiquitates 1596</item>
+               <item>43 Salmon's Syſtema medicinale <hi>Lond.</hi> 1686</item>
+               <item>44 Baxter's unreaſonableneſs of Infidelity <hi>Lond.</hi> 1655</item>
+               <item>45 Melanthonis loci communes <hi>Baſileae</hi> 1561</item>
+               <item>46 Pet Forreſti curationes medicinales <hi>Lugd. Batav.</hi> 1596</item>
+               <item>47 Gees Treatiſe of Prayer <hi>Lond.</hi> 1653</item>
+               <item>48 Keckermanni ſyſtema Rhetoricae <hi>Hanoviae</hi> 1608</item>
+               <item>49 Fernelii therapeutices univerſalis <hi>Francofur.</hi> 1681</item>
+               <pb n="22" facs="tcp:179235:12"/>
+               <item>50 Wilſon's genuine Interpreter of the Scrip. aſſerted <hi>Lond.</hi> 1678</item>
+               <item>51 Memoires of Hen. D. of Guiſe Engliſhed <hi>Lond.</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>52 Herle's Contemplations and Devotions <hi>Lond.</hi> 1631</item>
+               <item>53 Joſeph us de voiſni de lege divina ab Adamo ad Chriſtum &amp; poſtea <hi>Paris</hi> 1650</item>
+               <item>54 Acta Apoſt. ad literam explicata a Carolo Maria du Veil. <hi>Lond.</hi> 1684</item>
+               <item>55 Tractatus Theologico-politicus de officiis hominum circa jus naturae <hi>Londini</hi> 1685</item>
+               <item>56 The Biſhop of Cheſter of the Principles and Duties of Na<g ref="char:EOLhyphen"/>tural Rel. <hi>Lond.</hi> 1675</item>
+               <item>57 Pet. a S. Joſephs idea Theologiae ſpeculativae <hi>Lugduni</hi> 1649</item>
+               <item>58 Beyerlinck's conciones ſelectae <hi>Colon Agrip.</hi> 1627</item>
+               <item>59 Leſſius de jure &amp; Juſticia <hi>Duaci</hi> 1634</item>
+               <item>60 Peucerus de praecipuis generibus divinationum <hi>Wittenbergae</hi> 1560</item>
+               <item>61 Diogenes Laertius de vita &amp; moribus Philoſoph. <hi>Lugd.</hi> 1541</item>
+               <item>62 Nisbet's golden Chain of Time <hi>Edinburgh</hi> 1650</item>
+               <item>63 Owen's divine original of the Scriptures <hi>Oxford</hi> 1659</item>
+               <item>64 Englands imminent Danger and only Remedy, by an impartial hand <hi>Lugd.</hi> 1671</item>
+               <item>65 Marloratus in Geneſin <hi>Morgiis</hi> 1585</item>
+               <item>66 Ariſtot. phyſica gr. &amp; lat. <hi>Francofurti</hi> 1596</item>
+               <item>67 Saltmarſhe's free Grace <hi>Lond.</hi> 1645</item>
+               <item>68 Cabeljavii juſta Defenſio <hi>Antwerpiae</hi> 1657</item>
+               <item>69 Metii Inſtitutiones Aſtronomicae <hi>Franekere</hi> 1608</item>
+               <item>70 Grotius in Jonam <hi>Caſſellis</hi> 1649</item>
+               <item>71 Scaligeri Julii poemata 1591</item>
+               <item>72 Traherne's Chriſtian Ethicks <hi>Lond.</hi> 1675</item>
+               <item>73 Denne's Antichriſt unmasked <hi>Lond.</hi> 1646</item>
+               <item>74 A Pattern of Antichriſtian doctrines <hi>Lond.</hi> 1630</item>
+               <item>75 Heurni Inſtitutiones medicinae <hi>Lugduni Batavorum</hi> 1592</item>
+               <item>76 Natalis Comitis mythologia <hi>Genevae</hi> 162<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>77 Bocerus de Inveſtitura feudi 1608</item>
+               <item>78 Triglandi trina dei Gratia <hi>Amſtelodami</hi> 1637</item>
+               <item>79 Kirchmannus de Annulis <hi>Lugd. Batav.</hi> 1572</item>
+               <item>80 Manuale Confeſſariorum <hi>Antwerpiae</hi> 1579</item>
+               <item>81 Chitraei variorum in Europa itinerum deliciae 1599</item>
+               <item>82 Aubani omnium gentium mores <hi>Antwerpiae</hi> 1571</item>
+               <pb n="23" facs="tcp:179235:12"/>
+               <item>83 Stegmanni Photinianiſmus</item>
+               <item>84 Wright's deliciae deliciarum 1637</item>
+               <item>85 Grotii florum Sparſio ad jus <hi>Amſtelodami</hi> 1643</item>
+               <item>86 Towerſon on the Sacraments in general <hi>Lond.</hi> 1686</item>
+               <item>87 Peruſini Epitome annalium Baronii <hi>Pariſ.</hi> 1637</item>
+               <item>88 Fulwood's leges Angliae <hi>Lond.</hi> 1681</item>
+               <item>89 L'Eſtrange's holy chear <hi>Lond.</hi> 1662</item>
+               <item>90 Trumans great Propitiation <hi>Lond.</hi> 1672</item>
+               <item>91 Gretſeri Inſtitutiones linguae graecae <hi>Lugd.</hi> 1613</item>
+               <item>92 Puteani Epiſtolae Atticae <hi>Coloniae</hi> 1635</item>
+               <item>93 Baxter of Death <hi>Lond.</hi> 1660</item>
+               <item>94 Ferguſon in Cantica canticorum <hi>Edinburgi</hi> 1667</item>
+               <item>95 Xenophontis opera omnia Graece <hi>Baſileae</hi>
+               </item>
+               <item>96 <hi>A</hi> further diſcovery of the myſtery of Jeſuitiſm <hi>Lond.</hi> 1658</item>
+               <item>97 A review of the Hiſtory of Indulgence <hi>Lond.</hi> 1681</item>
+               <item>98 Pancirolli nova reperta <hi>Ambergae</hi> 1608</item>
+               <item>99 Miſcellanea proſaica <hi>Oxoniae</hi> 1652</item>
+               <item>100 Fumi Armilla aurea <hi>Lugduni</hi> 1666</item>
+               <item>101 Parei medulla Hiſtoriae profanae <hi>Francof.</hi> 1631</item>
+               <item>102 Marloratus in Geneſin</item>
+               <item>103 Sale's introduction A la vie devote <hi>A Pari.</hi>
+               </item>
+               <item>104 Zypaei fundamenta medicinae <hi>Bruxellis</hi> 1683</item>
+               <item>105 Potters want of Charity juſtly charged on Papiſts <hi>Lond.</hi> 1634</item>
+               <item>106 Cudworth's true notion of the Lords Supper <hi>Lond.</hi> 1670</item>
+               <item>107 Tiburtinus de juramento calumniae <hi>Colon Agrip.</hi> 1599</item>
+               <item>108 Saluſtius <hi>Franekerae</hi> 1619</item>
+               <item>109 Bezae queſt. &amp; reſponſiones Chriſtianae 1684</item>
+               <item>110 Eraſmi Euchiridron militis Chriſtiani <hi>Antwerpiae</hi> 1543</item>
+               <item>111 Dulcis ſchola Italica <hi>Colon Agrip.</hi> 1643</item>
+               <item>112 Duarenus de Sacris eccleſiae miniſteriis <hi>Pariſiis</hi> 1685</item>
+               <item>113 Hornii Hiſt. eccleſ. &amp; politica <hi>Lugd. Batav</hi> 1671</item>
+               <item>114 Lavaterus de Spectris <hi>Genevae</hi> 1580</item>
+               <item>115 Jumi Nomenclator <hi>Francofurti</hi> 1620</item>
+               <item>116 Pacii juris quo utimur Epitome <hi>Monſpelii</hi> 1604</item>
+               <item>117 Dupleſſis curioſities of Nature</item>
+               <item>118 Leighton's Sermons on ſelect Texts <hi>Lond.</hi> 1692</item>
+               <item>119 Heſiodi opera 1591</item>
+               <item>120 Fregii paratitla <hi>Baſileae</hi>
+               </item>
+               <pb n="24" facs="tcp:179235:13"/>
+               <item>121 Plateri praxis medica <hi>Baſileae</hi> 1602</item>
+               <item>122 Triglandius de Voluntate dei <hi>Lugduni Batav.</hi> 1642</item>
+               <item>123 Grotius de Imperio ſummarum poteſtatum circa ſacra <hi>Hag. Comitis</hi> 1661</item>
+               <item>124 Vinandi principis juventutis vita &amp; perigrinatio <hi>Coloniae</hi> 1609</item>
+               <item>125 A diſcourſe concerning the operations of the Holy Spirit <hi>Lond.</hi> 1678</item>
+               <item>126 Hales Contemplations Moral and Divine <hi>Isnd.</hi> 1676</item>
+               <item>127 Grotii votum pro pace Eccleſiaſtica 1642</item>
+               <item>128 Hotmanni quaeſt. Illuſtres <hi>Genevae</hi> 1598</item>
+               <item>129 Valerius Maximus</item>
+               <item>130 Verneri uncleus exercitationum juris utriusq. <hi>Francofurti</hi> 1609</item>
+               <item>131 Stoughtoni faelicitas ultimi Saeculi <hi>Lond.</hi> 1640</item>
+               <item>132 Sir Kenelm Digby's Letters <hi>Lond.</hi> 1651</item>
+               <item>133 Newhuſi fatidica Sacra <hi>Amſtel.</hi> 1635</item>
+               <item>134 Purius de efficacitate Chriſti <hi>Goudae</hi> 1592</item>
+               <item>135 Vigelii repertorium juris <hi>Baſileae</hi> 1591</item>
+               <item>136 Calavius in Euclidis poſteriores lib. 9 <hi>Jonae Rhaedii</hi> 1607</item>
+               <item>137 Goodwin's Opuſcula <hi>Heidelbergae</hi> 1658</item>
+               <item>138 Arniſaei doctrina politica <hi>Amſtelodami</hi> 1643</item>
+               <item>139 Morlands urim of Conſcience <hi>Lond.</hi> 1695</item>
+               <item>140 Hoyd's Reſurrection of the ſame Body aſſerted <hi>Lond.</hi> 1649</item>
+               <item>141 Baxter's Gildas ſalvianus <hi>Lond.</hi> 1656</item>
+               <item>142 Demoſthenis orationes gr &amp; lat. <hi>Baſileae</hi> 1569</item>
+               <item>143 Baxter's Holy Common-Wealth <hi>Lond.</hi> 1659</item>
+               <item>144 Myſterium Pietatis <hi>Ultrajecti</hi> 1686</item>
+               <item>145 Granatenſis de devotione 1592</item>
+               <item>146 Amyraldus de myſterio Trinitatis <hi>Salmurii</hi> 1661</item>
+               <item>147 Ignatii epiſtolae Graece <hi>Pariſ.</hi> 1562</item>
+               <item>148 Theſaurus Politicus <hi>Coloniae</hi> 1609</item>
+               <item>149 Barclaius de poteſtate papae 16<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>9</item>
+               <item>150 Guilds Limbo's batterie <hi>Aberdene</hi> 1630</item>
+               <item>151 Mynſingerus de actionibus <hi>Lugduni</hi> 1548</item>
+               <item>152 Smith on the 51 Pſalm <hi>Lond.</hi> 1612</item>
+               <item>153 Pacius in inſtitutiones Juſtiniani 1589</item>
+               <item>154 Grotii Conſilium juridicum <hi>Ameſtel</hi> 1652</item>
+               <item>155 Catecheſis Chriſtianae Fidei Graece <hi>Cantabrigiae</hi> 1648</item>
+               <item>156 Codex canonum eccleſiae univerſae gr. &amp; lat. 1610</item>
+               <pb n="25" facs="tcp:179235:13"/>
+               <item>157 Perkinſii anatomia Sacra humanae conſcientiae <hi>Baſileae</hi> 1614</item>
+               <item>158 Theſauri genealogia Chriſti <hi>Lond.</hi> 1657</item>
+               <item>159 Paſchalii Legatus <hi>Rothomagi</hi> 1598</item>
+               <item>160 Calderwoods Recantation <hi>Lond.</hi> 1622</item>
+               <item>161 Snecanus de gratuito dei faedere <hi>Lugd. Batav.</hi> 1584</item>
+               <item>162 Boyl of the Stile of the Scriptures <hi>Lond.</hi> 1633</item>
+               <item>163 Pouelus de antichriſto</item>
+               <item>164 Burnet's myſtery of iniquity unfolded <hi>Lond.</hi> 1675</item>
+               <item>165 Marconet's aulicus inculpatus 1684</item>
+               <item>166 Petrarcha de Repub. optime adminiſtranda <hi>Bernae</hi> 1602</item>
+               <item>167 Gouſſeti controverſia adverſus Iudaeos <hi>Goris</hi> 1688</item>
+               <item>168 Wendelini politica</item>
+               <item>169 Baxter of the inviſibility of the Church <hi>Lond.</hi> 1660</item>
+               <item>170 Purnet's vindication of the Church of Scotland <hi>Glaſgow</hi> 1673</item>
+               <item>171 De regno tranquille adminiſtrando <hi>Urſellis</hi> 1599</item>
+               <item>172 Dyoniſius Alexandrinus de ſitu orbis gr. &amp; lat. <hi>Baſileae</hi>
+               </item>
+               <item>173 Lectura Super canonemde conſecratione <hi>Wiliorbani</hi> 1594</item>
+               <item>174 Melanthonis vita Lutheri 1557</item>
+               <item>175 Owen of Schiſme <hi>Oxford</hi> 1657</item>
+               <item>176 Preroti Paratitla <hi>Pariſ.</hi> 1603</item>
+               <item>177 Cauſſa Spiritus ſancti victrix <hi>Lugd. Batav.</hi> 1680</item>
+               <item>178 Theocriti Idyllia <hi>Baſilea</hi> 1641</item>
+               <item>179 Baronius de objecto formali fidei <hi>Abredoniae</hi> 1631</item>
+               <item>180 Riolani univerſae medicinae compendium</item>
+               <item>181 Facultatis theologiae <hi>Pariſ.</hi> cenſura in lib. Ar. <hi>Spalatenſis</hi> 1618</item>
+               <item>182 Lants inſtitutiones arithmeticae <hi>Colon. Agrip.</hi> 1621</item>
+               <item>183 Lucretius de rerum natura <hi>Baſilea</hi> 1531</item>
+               <item>184 Canaries of the manifeſtation of the will of God <hi>Lond.</hi> 1648</item>
+               <item>185 Theophraſti characteres gr. cum notis Caſauboni <hi>Lugd.</hi> 1593</item>
+               <item>186 Ford of Original Sin 1657</item>
+               <item>187 Sutholt's Diſſertationes <hi>Lugd. Batav.</hi> 1633</item>
+               <item>188 Rami et Talaei epiſtolae &amp; orationes 1577</item>
+               <item>189 Melandri joca et ſeria <hi>Francofurti</hi> 1626</item>
+               <item>190 Plauti comoediae <hi>Genevae</hi> 1589</item>
+               <item>191 Morelli methodus preſcribendi Remedia <hi>Genevae</hi> 1638</item>
+               <item>192 Fenneri Sacra theologia <hi>Amstelodomi</hi> 1632</item>
+               <item>193 Rollocus in epiſt. ad Galatas <hi>Londini</hi> 1602</item>
+               <item>194 Ameſius in epiſtolas Petri <hi>Amſtel.</hi> 1635</item>
+               <pb n="26" facs="tcp:179235:14"/>
+               <item>195 Bunderi compendium rerum theologicarum <hi>Antwerpiae</hi> 156<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>196 Triglandius de civili et Eccleſiaſt. poteſtate <hi>Amſtel.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>197 Aphthonii progymnaſmata <hi>Lugd.</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>198 Du veil in Evangel. Matth. &amp; Marci. <hi>Lond.</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>199 Cradock's paraphraſe of the Revelation <hi>Lond.</hi> 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>200 An Endeavour to rectiſie ſome prevailing Opinions <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>201 Taylor's Contemplations of the ſtate of Man <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>202 Cloppenburgi Gangraena Theol. Anabaptiſticae <hi>Franekerae</hi> 164<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>203 Streſonis reſp. ad appellationem innocentiae Luth. <hi>Lugd.</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>204 Henrion's memoires Mathematiques <hi>A Paris.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>205 Riolani reſponſio ad Pecquetum <hi>Pariſiis</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>206 Bayne's Letters <hi>Lond</hi> 163<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>207 Vrgani medulla Chymiae <hi>Lond.</hi> 168<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>208 Gordanus de aquis medicatis Moraviae <hi>Francof.</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>209 Cordi Diſpenſatorium <hi>Lugd.</hi> 1554</item>
+               <item>210 De la Militiere's Victory of Truth <hi>Hague</hi> 1654</item>
+               <item>211 The love of the Soul 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>212 Perſii ſatyrae cum notis Joh. Bond <hi>Lond.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>213 Coupers defiance to Death <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>214 Calixtus de controv. inter Reform. &amp; Lutheranos <hi>Lugd.</hi> 1651</item>
+               <item>215 Hotomanni conſolatio e ſacris literis <hi>Lugduni</hi> 1593</item>
+               <item>216 Machiavellus de Repub. <hi>Francof.</hi> 1608</item>
+               <item>217 Hotomanni reſponſiones amicabiles <hi>Hanoviae</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>218 Morins dilucidatio controv. inter Reformatos <hi>Lond.</hi>
+               </item>
+               <item>219 Cujaci paratitla <hi>Pariſiis</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>220 Carg's deſcription of the New Jeruſalem <hi>Lond.</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>221 Cornelius Nepos <hi>Lugd. Batav.</hi> 1634</item>
+               <item>222 Hotomanni partitiones juris civilis 1589</item>
+               <item>223 Senault upon Job <hi>Lond.</hi> 1657</item>
+               <item>224 Julii Caeſaris polyteuma <hi>Francofurti</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>225 Bezae ad Saraviam reſponſio 1593</item>
+               <item>226 Baxter's ſafe Religion <hi>Lond.</hi> 1637</item>
+               <item>227 Baxter of Juſtifying Righteouſneſs <hi>Lond.</hi> 1676</item>
+               <item>228 Ariſtophanis comediae gr. &amp; lat. <hi>Franc. ad Moenum</hi>
+               </item>
+               <item>229 Junii &amp; Tremellii Biblia Sacra <hi>Hanovia</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>230 Confeſſio Fidei petricoviana <hi>Antwerpia</hi> 1559</item>
+               <item>231 Galaei idaea Theol. contemplativae et activae <hi>Lond.</hi> 1673</item>
+               <item>232 Junius de natura &amp; gratia <hi>Lugd. Batav.</hi> 169<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <pb n="27" facs="tcp:179235:14"/>
+               <item>233 Druſii quaeſtiones ac reſponſiones 1583</item>
+               <item>234 Grotius de ſatisfactione Chriſti <hi>Lond.</hi> 1661</item>
+               <item>235 Pindarus &amp; alii Graece 1598</item>
+               <item>236 Cumberland of the Scripture Weights &amp; Meaſures <hi>Lond.</hi> 1686</item>
+               <item>337 Auſtin of the Trinity <hi>Lond.</hi> 1658</item>
+               <item>238 Sadeel de veritate humanae naturae 1590</item>
+               <item>239 Elementale Coſmographicum <hi>Pariſ.</hi> 1551</item>
+               <item>240 Apollinarius in Pſalmos gr. &amp; lat. 1596</item>
+               <item>241 Marantae lumen Advocatorum <hi>Lugduni</hi> 1567</item>
+               <item>242 Riverii Praxis Medica <hi>Lut. Par.</hi> 1640</item>
+               <item>243 Pulverini Medicina practica <hi>Lugd. Bat.</hi> 1649</item>
+               <item>244 Snellius in Talaei Retoricam <hi>Franc.</hi> 1596</item>
+               <item>245 Ribera in E. ad Hebraeos <hi>Coloniae</hi> 1600</item>
+               <item>246 Foreſti Obſervationes Medicinales <hi>Lugd.</hi> 1596</item>
+               <item>247 Pezelius de Coena Domini 1590</item>
+               <item>248 The fulneſs of Gods Love manifeſted 1643</item>
+               <item>249 Euſebius de Arte Voluntatis <hi>Lugd.</hi> 1649</item>
+               <item>250 Bezae Homiliae de Reſurrectione Chriſti <hi>Bernae</hi> 1650</item>
+               <item>251 Belga's Compendium Theologiae <hi>Rotho.</hi> 1637</item>
+               <item>252 Carpenters Experience, Hiſtorie, &amp; Divinitie <hi>Lond.</hi> 1642</item>
+               <item>253 Venatorii analyſis methodica Juris Pontificii <hi>Lugd.</hi> 1604</item>
+               <item>254 Silius Italicus de bello punico <hi>Pariſiis</hi> 1531</item>
+               <item>255 Suttons diſce vivere, diſce mori <hi>Lond.</hi> 1634</item>
+               <item>256 Angli Inſtitutiones peripateticae <hi>Lugd.</hi> 1647</item>
+               <item>257 Hornecks fire of the Altar 1683</item>
+               <item>258 Du Moulin of Traditions <hi>London</hi> 1641</item>
+               <item>259 Stillingfleets defence of his diſcourſe concerning the Idolatry of the Church of Rome <hi>Lond.</hi> 1676</item>
+               <item>260 Culverwells Treatiſe of Faith <hi>London</hi> 1633</item>
+               <item>261 Metamorphoſis Mundi</item>
+               <item>262 Independencie a great Schiſm <hi>London</hi> 1657</item>
+               <item>263 Lipſii Epiſtolae ſelectae <hi>Genevae</hi> 1637</item>
+               <item>264 A Subſidy granted to the King <hi>London</hi> 1667</item>
+               <item>265 Of the Education of Children <hi>London</hi> 1638</item>
+               <item>266 Serreii Grammatica gallica 1660</item>
+               <item>267 Voſſii partitiones Oratoriae 1660</item>
+               <item>268 Animadverſions on Fiat Lux. <hi>London</hi> 1662</item>
+               <item>269 Baptiſtae Portae Phytognomonica <hi>Franc.</hi> 1591</item>
+               <pb n="28" facs="tcp:179235:15"/>
+               <item>270 Bodinus de Republica <hi>Franc.</hi> 1622</item>
+               <item>271 Crocii periculum Opinionum <hi>Bremae</hi> 1644</item>
+               <item>272 Simpſons Compendium of Muſick <hi>London</hi> 1678</item>
+               <item>273 The evil Eye plucked out <hi>London</hi> 1670</item>
+               <item>274 Bartholini Opuſcula Anatomica <hi>Hafniae</hi> 1670</item>
+               <item>275 Henry L. delamers Works <hi>London</hi> 1694</item>
+               <item>274 Fullers mixt Contemplations <hi>London</hi> 1660</item>
+               <item>275 Praelectiones Academicae in Schola Camdeniana <hi>Oxford</hi> 1692</item>
+               <item>276 Juriſprudentia Romana <hi>Herbornae</hi> 1599</item>
+               <item>277 Pitcarnii Harmonia Evangelica Pauli et Jacobi.</item>
+               <item>278 Poiret de Eruditione Solida <hi>Amſtel.</hi> 1692</item>
+               <item>281 Sadeel de veritate humanae naturae Chriſti 1585</item>
+               <item>282 Polyaeni Stratagemata Graece &amp; latine 1589</item>
+               <item>283 A Diſcourſe of the Judgments of God <hi>London</hi> 1668</item>
+               <item>284 Labbes Bibliotheca Bibliothecarum <hi>Lipſiae</hi> 1682</item>
+               <item>285 Arcularius in Acta Apoſtolorum <hi>Franc.</hi> 1607</item>
+               <item>286 Busbequii Legatio Turcica <hi>Hanoviae</hi> 1606</item>
+               <item>287 Praecationes ex S. Bibliis Gr. Heb. &amp; latine <hi>Par.</hi> 1594</item>
+               <item>288 Maſſverii praxis forenſis <hi>Pariſ.</hi> 1555</item>
+               <item>289 Baxters dying thoughts <hi>London</hi> 1688</item>
+               <item>290 Aſhwells Geſtus Euchariſticus <hi>Oxford</hi> 1663</item>
+               <item>291 Towns aſſertion of Grace</item>
+               <item>292 Clipſhams grand Expedient <hi>Lond.</hi> 1685</item>
+               <item>293 The Hiſt of Eccleſiaſtical Revenues <hi>Lond.</hi> 1685</item>
+               <item>294 Ferus in Geneſin <hi>Colon.</hi> 1572</item>
+               <item>295 The main duty of a Chriſtian</item>
+               <item>296 Solini Polyhiſtoria <hi>Lugduni</hi> 1538</item>
+               <item>297 Lodovicus Vives de concordia &amp; diſcordia humani generis</item>
+               <item>298 Bp. of Salisburys Animadverſions on the Treatiſe of Gods Love to Mankind <hi>Lond.</hi> 1641</item>
+               <item>299 A Vindication of the Clergie <hi>London</hi> 1670</item>
+               <item>300 Lombardi libri 4 ſententiarum <hi>Pariſiis</hi> 1573</item>
+               <item>301 Molineus de Monarchia temporali R. Pontificis 1614</item>
+               <item>302 Pyrotechnia in <hi>Venetia</hi> 1559</item>
+               <item>303 Forbeſii Conſiderationes modeſtae <hi>Londini</hi> 1657</item>
+               <item>304 Crocius de Eccleſiae Unitate &amp; Schiſmate 1650</item>
+               <item>305 Pacii Authenticae 1580</item>
+               <pb n="29" facs="tcp:179235:15"/>
+               <item>306 Sculteti Idea Concionum Dominicalium <hi>Franco.</hi> 1651</item>
+               <item>307 Abbot de perſeverantia Sanctorum <hi>Franc.</hi> 1619</item>
+               <item>308 Oſiandri Praelectiones Academicae <hi>Tubingae</hi> 1678</item>
+               <item>309 Juſtiniani Inſtitutiones <hi>Pariſiis</hi> 1552</item>
+               <item>310 Lipſius de una Religione <hi>Lu gd.</hi> 1591</item>
+               <item>311 Sperlings Inſtitutiones Phyſicae <hi>Lypſiae</hi> 1658</item>
+               <item>312 Scaliger de ſubtilitate <hi>Franc.</hi> 1582</item>
+               <item>313 Nonni Paraphraſis in Johannem gr. &amp; lat. <hi>Lypſiae</hi> 1612</item>
+               <item>314 Lockiers diſcovery of ſincerity <hi>Lond.</hi> 1643</item>
+               <item>315 Occaſional Reflections on ſeveral Subjects <hi>Lond.</hi> 1665</item>
+               <item>316 Richeomi Valedictio Animae devotae <hi>Coloniae</hi> 1590</item>
+               <item>317 Schotani Examen Juridicum <hi>Amst.</hi> 1639</item>
+               <item>318 Burgersdicii Collegium Phiſicum <hi>Lugd. Batav</hi> 1643</item>
+               <item>319 Burgersdicii Inſtitutiones Logicae <hi>Ibidem</hi> 1634</item>
+               <item>320 Du Moulin of peace and contentment of mind <hi>Lond.</hi> 1671</item>
+               <item>321 Marlorati Enchiridium Locorum Commun. <hi>Baſileae</hi>
+               </item>
+               <item>322 Camdeni Britannia <hi>Amsterd</hi> 1639</item>
+               <item>323 Eders Catechiſmus Catholicus <hi>Coloniae</hi> 1569</item>
+               <item>324 Durantis de Ritibus Eccleſiae Catho. <hi>Pariſiis</hi> 1634</item>
+               <item>325 Sherlock of the knowledge of Chriſt <hi>London</hi> 1674</item>
+               <item>326 Hydes true Catholicks Tenure <hi>Cambridge</hi> 1662</item>
+               <item>327 Glaſſii Meditationes Sacrae <hi>Jenae</hi> 1638</item>
+               <item>328 Barclaii Paraeneſis <hi>Coloniae</hi> 1638</item>
+               <item>329 Bucani Loci Communes <hi>Genevae</hi> 1630</item>
+               <item>330 Andrews on the Lords Prayer <hi>Cambridge</hi> 1641</item>
+               <item>331 Baxters Poſeing queſtion <hi>Lond.</hi> 1662</item>
+               <item>332 Catechiſmus Romanus <hi>Coloniae</hi> 1622</item>
+               <item>333 Rituale Romanum <hi>Lugduni</hi> 1616</item>
+               <item>334 Broun of Sepulchral Urnes <hi>London</hi> 1658</item>
+               <item>335 Horatius in Uſum Delphini <hi>Toloſae</hi> 1673</item>
+               <item>336 Von Hammen de Herniis <hi>Iugd.</hi> 1681</item>
+               <item>337 St. Favorals Journeys <hi>A Paris</hi> 1637</item>
+               <item>338 Guiblets diſcourſe Philoſophique</item>
+               <item>339 Althuſii politica <hi>Herbornae</hi> 1603</item>
+               <item>340 Eberus de Caena Domini <hi>Wittebergae</hi> 1563</item>
+               <item>341 Elliſ's Gentile Sinner <hi>Oxford</hi> 1668</item>
+               <item>342 Vicomercatus de principiis Rerum naturalium 1591</item>
+               <item>343 Stillingfleets Divine preſence in the places of Religious Wor<g ref="char:EOLhyphen"/>ſhip <hi>London</hi> 1663</item>
+               <pb n="30" facs="tcp:179235:16" rendition="simple:additions"/>
+               <item>344 Thorndecks diſcourſe of Forbearance <hi>Ibidem</hi> 1670</item>
+               <item>345 Blunts Janua ſcientiarum <hi>London</hi> 1684</item>
+               <item>346 Gothofredi Antiqua Hiſtoria <hi>Argent</hi> 1604</item>
+               <item>347 Heidfeldii Theologica Philoſophica Sphinx <hi>Her.</hi> 1602</item>
+               <item>348 Caſtelli Lexicon Medicum <hi>Rotterod</hi> 1634</item>
+               <item>349 Perkins of the Laws of England <hi>London</hi> 1614</item>
+               <item>350 Schotanus de deſcenſu Chriſti ad Infernos <hi>Fran.</hi> 1644</item>
+               <item>351 Homeri Odyſſeae 1611</item>
+               <item>352 Cocquii Hobbeſianiſmi Anatome <hi>Trajecti</hi> 1608</item>
+               <item>353 De Diſciplina Eccleſiaſtica 1574</item>
+               <item>354 Baconus de ſapientia Veterum <hi>Londini</hi> 1609</item>
+               <item>355 Haſenmulleri Hiſtoria Jeſuitici ordinis <hi>Frane.</hi> 1595</item>
+               <item>356 Tonſtallus de Arte ſupputandi <hi>Argentorat</hi>
+               </item>
+               <item>357 Speculum Aulicarum Obſervationum 1610</item>
+               <item>358 Campiani Opuſcula omnia <hi>Pariſiis</hi> 1618</item>
+               <item>359 Vincentius Lyrinenſis adverſus Haereſes <hi>Oxoniae</hi> 1631</item>
+               <item>360 N. Teſt. Graece ex Biblioth. Regia 1569</item>
+               <item>361 Hiſt. Britannica <hi>Amberga</hi> 1603</item>
+               <item>362 The practical Believer <hi>London</hi> 1668</item>
+               <item>363 Poetae Minores 1620</item>
+               <item>364 An Impartial ſurvey of the Prot. Religion <hi>Lond.</hi> 1685</item>
+               <item>365 Parkers Religion and Loyaltie <hi>Lond.</hi> 1685</item>
+               <item>366 Statius <hi>Amſtel.</hi> 1630</item>
+               <item>367 Hermogenis Ars Oratoria <hi>Coloniae</hi> 1614</item>
+               <item>368 Mileus de ſcribenda Hiſtoria</item>
+               <item>369 Tilmanni Faſciculus Precationum</item>
+               <item>370 De May of the War of Hungary <hi>Glaſgow</hi> 1669</item>
+               <item>371 Ramſaei Poemata Sacra <hi>Edinburgi</hi> 1633</item>
+               <item>372 The Bee-hive of the Romiſh Church <hi>Lond.</hi> 1636</item>
+               <item>373 Freigi Quaeſtiones OEconomicae <hi>Baſileae</hi>
+               </item>
+               <item>374 Bodini methodus Hiſtoriarum 1591</item>
+               <item>375 Hemmingii Enchiridion Theol. <hi>Londini</hi> 1580</item>
+               <item>376 Riveti Diſput. Theol. <hi>Lugd.</hi> 1631</item>
+               <item>377 Index Expurgatorius 1599</item>
+               <item>378 Caſaubonus de 4 Linguis <hi>Londini</hi> 1650</item>
+               <item>379 Grammair Italienne <hi>A Lyon</hi> 1568</item>
+               <item>380 De Le Boe Sylvii Diſputationes Medicae <hi>Lugd.</hi> 1670</item>
+               <item>381 A Sancto Joſephs Idea Theologiae Sacramentalis</item>
+               <pb n="31" facs="tcp:179235:16" rendition="simple:additions"/>
+               <item>382 The Excellency of Theologie <hi>London</hi> 1674</item>
+               <item>383 Lopes Inſtructorium Conſcientiae <hi>Lugd.</hi> 1592</item>
+               <item>384 Polydorus Vergilius de Inventoribus Rerum 1549</item>
+               <item>385 Dictionarium Medicum 1564</item>
+               <item>386 Newhuſius de Fratribus Roſae-crucis</item>
+               <item>387 Terentii Varronis opera</item>
+               <item>388 A Letter of Thanks from the Author of Sure-footing <hi>Paris</hi> 1666</item>
+               <item>389 Catholica diſciplina di principi in Vinegia <hi>Vinegia</hi> 1561</item>
+               <item>390 The Expoſition of the difficult Terms of the Engliſh Law <hi>Lond.</hi> 1629</item>
+               <item>391 Cautiuncula in 3 priores lib. Inſtitut. Juſti. <hi>Lugduni</hi> 1550</item>
+               <item>392 Del compendio de Secreti rationali In <hi>Venetia</hi> 1591</item>
+               <item>393 Venuti's Italian &amp; French Dictionarie 1626</item>
+               <item>394 Malvezzi's Romulo <hi>in Venetia</hi> 1635</item>
+               <item>395 Poſtelli abſconditorum a conſtitutione mundi clavis <hi>Amſtel.</hi> 1646</item>
+               <item>396 Abdiae Babyloniae Hiſt. certam. Apoſtolici <hi>Pariſis</hi> 1560</item>
+               <item>397 Luſitani curationes medicinales <hi>Florentiae</hi> 1551</item>
+               <item>398 Oſorius de Religione <hi>Delingae</hi> 1574</item>
+               <item>399 De abſoluto Regis primatu <hi>Lugd.</hi> 1546</item>
+               <item>400 Baxters method for peace of Conſcience <hi>Lond.</hi> 1657</item>
+               <item>401 Bramhalls vindication of the Church of England <hi>Lond.</hi> 1654</item>
+               <item>402 Dubartas OEuvres poetiques in 2 vol. <hi>A Roven</hi> 1616</item>
+               <item>403 Eliae Levitae Maſoreth</item>
+               <item>404 Sepher Amanah</item>
+               <item>405 Heudon's les Adventures <hi>A Paris</hi> 1598</item>
+               <item>406 Rami Arithmetica <hi>Francofurti</hi> 1592</item>
+               <item>407 Trelcatii locorum communium Inſtitu. <hi>Oxoniae</hi> 1606</item>
+               <item>408 Patricks menſa Myſtica <hi>Lond.</hi> 1667</item>
+               <item>409 Theodoretus de providentia gr. &amp; lat. <hi>Tiguri</hi> 1546</item>
+               <item>410 Hiſtoire de Henry 4 de France <hi>A Leyden</hi> 1608</item>
+               <item>411 Plateri obſervationes medicinales <hi>Baſileae</hi> 1641</item>
+               <item>412 Hermogenes de generibus dicendi gr. &amp; lat. 1571</item>
+               <item>413 Zouch de politia Eccleſiae Anglicanae <hi>Lond.</hi> 1683</item>
+               <item>414 Coſſins Hiſt Tranſubſtantiationis papalis <hi>Lond.</hi> 1675</item>
+               <item>415 La vita de Merlino con-le-ſue profletie 1554</item>
+               <item>416 Walker's paraph. on the Epiſtles of Paul <hi>Oxford</hi> 1684</item>
+               <item>417 L. Hiſtoire D. Dom Quichot <hi>A Paris</hi> 1625</item>
+               <pb n="32" facs="tcp:179235:17" rendition="simple:additions"/>
+               <item>418 The Secretary in Faſhion <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>419 Cucchi Inſtitutiones juris canonici <hi>Coloniae</hi> 15<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>420 Woolſeleys Unreaſonableneſs of Atheiſm. <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>421 Jus Regum <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>422 Hutcheſon on the 3 laſt Minor Prophets <hi>Lond.</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>423 Capellus de Regis primatu <hi>Coloniae</hi>
+               </item>
+               <item>424 Guazzo's civil Converſation <hi>A Lyon</hi> 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>425 Satyrae quaedam <hi>Lugduni Batav.</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>426 Varro &amp; Cato de re ruſtica <hi>Baſileae</hi> 152<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>427 Tileni Syntagma <hi>Sedani</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>428 Les Chaſtes amours de Theagenes &amp; Chariclea. <hi>A Roven</hi> 16<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>429 Plinii Epiſtolae <hi>Antwerpiae</hi> 154<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>430 Clagett of the Operations of the Holy Spirit <hi>Lond.</hi> 168<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>431 Varia promata</item>
+               <item>432 Hommii diſp. Theologic <hi>Lugd. Batav.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>433 Scaliger de Subtilitate <hi>Francofurt.</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>434 De Ronſards les OEuvres <hi>A Paris</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>435 Terentins cum notis Boecleri <hi>Argentorati</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>436 Foxius de Chriſto gratis juſtificante <hi>Lond.</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>437 Reuſneri Symbola Imperatoria <hi>Francofurti</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>438 Bellarminus de Aeterna foelicitate Sanctorum</item>
+               <item>439 Pauli tertii papae conſtitutiones Cancellariae <hi>Lugduni</hi> 153<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>440 Leſſius de Antichriſto <hi>Antwerpiae</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>441 Spanhemii exercitationes de gratia <hi>Lugd. Batav.</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>442 Seth Biſhop of Sarum's Sermons <hi>Lond.</hi> 167<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>443 Salviani &amp; Vincentii opera cum notis <hi>Pariſiis</hi> 166<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>444 Ariſtoteles de anima gr &amp; lat. <hi>Hanoviae</hi> 161<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>445 Euclidis elementa demonſtrata ab Iſaaco Barrow 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>446 Eraſmi apophthegmata <hi>Antwerpiae</hi> 154<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>447 Caſmanni nucleus myſteriorum naturae <hi>Hamburgi</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>448 Reyner's Precepts for Chriſtian Practiſe <hi>Lond.</hi> 165<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>449 Bucerus de regalibus <hi>Tubingae</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>450 Popma de differentiis verborum 159<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>451 Baxter's Directions to a ſound Converſion <hi>Lond.</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>452 Edward's Doxology approven <hi>Edinburgh</hi> 168<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>453 Hygini Fabulae, <hi>&amp;c. Lugduni</hi> 160<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>454 Taylor's Golden Grove <hi>Lond.</hi> 168<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+               <item>455 Quintiliani Declamationes <hi>Baſileae</hi> 158<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </item>
+            </list>
+         </div>
+      </body>
+   </text>
+</TEI>
